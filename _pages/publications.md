@@ -16,7 +16,7 @@ author_profile: true
 
 * Amgad Madkour, Walid G Aref, Faizan Ur Rehman, Mohamed Abdur Rahman, Saleh Basalamah, "A Survey of Shortest-Path Algorithms", Technical Report. arXiv 2017 [[Paper](https://arxiv.org/pdf/1705.02044.pdf)]
 
-* Amgad Madkour, Walid Aref, Mohamed Mokbel, Saleh Basalamah, "Geotagging Non-Spatial Concepts", ACM SIGSPATIAL MobiGIS 2015 [[Paper](https://www.cs.purdue.edu/homes/amadkour/files/papers/geo-tagging-spatial.pdf)][[Slides](/files/presentations/geotagging-non-spatial.pdf)]
+* Amgad Madkour, Walid Aref, Mohamed Mokbel, Saleh Basalamah, "Geotagging Non-Spatial Concepts", ACM SIGSPATIAL MobiGIS 2015 [[Paper](/files/papers/geo-tagging-spatial.pdf)][[Slides](/files/presentations/geotagging-non-spatial.pdf)]
 
 * Ahmed Mahmood, Ahmed Aly, Thamir Qadah, El Kindi Rezig, Anas Daghistani, Amgad Madkour, Ahmed Abdelhamid, Mohamed Hassan, Walid Aref, Saleh Basalamah, "Tornado: A Distributed Spatio-Textual Stream Processing System", VLDB Demo, 2015 [[Paper](files/papers/tornadodemo.pdf)]
 
