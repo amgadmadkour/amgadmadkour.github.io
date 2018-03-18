@@ -1,0 +1,21 @@
+# main links links
+main:
+  - title: "Projects"
+    url: /projects.html
+    
+  - title: "Publications"
+    url: /publications.html
+
+  - title: "Activities"
+    url: /activities.html
+
+  - title: "Talks"
+    url: /talks/
+
+  - title: "CV"
+    url: /cv.html
+    
+  - title: "Blog Posts"
+    url: /year-archive/
+    
+

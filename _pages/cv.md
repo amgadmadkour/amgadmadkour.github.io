@@ -1,0 +1,54 @@
+---
+layout: single
+title: "CV"
+permalink: /cv.html
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+## Current Role
+
+* Purdue University
+  * Research Assistant
+
+## Internships
+
+* Microsoft Research, Greater Seattle Area, WA, Summer 2015
+  * Project: Enhancing the dependency parser over web queries.
+
+* GIS Technology Innovation Center, Makkah, Summer 2014
+  * Project: Analyzing microblogs (e.g, twitter)
+
+* Yahoo!,  Sunnyvale CA, Summer 2011
+  * Project: Recommender System for Local Search
+
+## Industrial Experience
+
+* IBM, Cairo, Egypt, Jan 2006-Jul 2010
+  * Staff Research Engineer, Research And Development Team
+
+## Academic Experience
+
+* The American University in Cairo, Cairo, Egypt, Jul 2007-Jul 2008
+  * Research Assistant, Microsoft Grant
+
+* The German University in Cairo, Cairo, Egypt, Jan 2004-Feb 2006
+  * Teaching Assistant, Computer Science Department
+
+* Arab Academy for Science and Technology, Cairo, Egypt, Sep 2003- Jan 2004
+  * Teaching Assistant, Information Technology Department.
+
+* Georgia State University, Altanta, USA,  June 2000-August 2000
+  * Student Assistant, Computer Security
+
+## Education
+
+* Purdue University
+  * Ph.D. of Computer Science
+* The American University In Cairo, June 2009
+  * Masters of Computer Science
+* Arab Academy for Science and Technology (Cairo Campus), Egypt, June 2003
+  * Bachelor of Computer Science
