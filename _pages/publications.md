@@ -14,6 +14,10 @@ author_profile: true
 
 ## Conferences and Workshops
 
+* Amgad Madkour, Walid G. Aref, Ahmed M. Aly, "SPARTI: Scalable RDF Data Management Using Query-Centric Semantic Partitioning", Semantic Big Data (SBD18)
+
+* Amgad Madkour, Walid G. Aref, Sunil Prabhakar, Mohamed Ali, Siarhei Bykau, "TrueWeb: A Proposal for Scalable Semantically-Guided Data Management and Truth Finding in Heterogeneous Web Sources", Semantic Big Data (SBD18)
+
 * Amgad Madkour, Walid G Aref, Faizan Ur Rehman, Mohamed Abdur Rahman, Saleh Basalamah, "A Survey of Shortest-Path Algorithms", Technical Report. arXiv 2017 [[Paper](https://arxiv.org/pdf/1705.02044.pdf)]
 
 * Amgad Madkour, Walid Aref, Mohamed Mokbel, Saleh Basalamah, "Geotagging Non-Spatial Concepts", ACM SIGSPATIAL MobiGIS 2015 [[Paper](/files/papers/geo-tagging-spatial.pdf)][[Slides](/files/presentations/geotagging-non-spatial.pdf)]
