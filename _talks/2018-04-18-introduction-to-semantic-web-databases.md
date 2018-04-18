@@ -2,7 +2,7 @@
 title: "Introduction to Semantic Web Databases"
 collection: talks
 type: "Lecture"
-permalink: /talks/2018-04-17-introduction-to-semantic-web-databases.html
+permalink: /talks/2018-04-18-introduction-to-semantic-web-databases.html
 venue: "CS34800: Information Systems"
 date: 2018-04-17
 location: "Purdue University, West Lafayette, USA"
