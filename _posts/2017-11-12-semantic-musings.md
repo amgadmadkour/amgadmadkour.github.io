@@ -1,6 +1,7 @@
 ---
 title: 'Blog About Semantic Musings'
 date: 2017-11-12
+sitemap: false
 permalink: /posts/2017/11/semantic-musings.html
 tags:
   - semanticdatamanagement
