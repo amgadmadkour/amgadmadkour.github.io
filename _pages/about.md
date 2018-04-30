@@ -21,6 +21,6 @@ Previously, I was an [IBM](https://www.ibm.com/eg-en/) Staff Research Engineer f
 
 * **Apr 2018:** Our paper titled "TrueWeb: A Proposal for Scalable Semantically-Guided Data Management and Truth Finding in Heterogeneous Web Sources" has been accepted in Semantic Big Data (SBD18) at SIGMOD 2018.
 * **Apr 2018:** Our paper titled "SPARTI: Scalable RDF Data Management Using Query-Centric Semantic Partitioning" has been accepted in Semantic Big Data (SBD18) at SIGMOD 2018.
-* **Apr 2018:** Giving two lectures at Purdue titled: ["Introduction to Semantic Web Databases"](https://www.cs.purdue.edu/homes/aref/Spring2018CS348/slides/w9.1-Introduction-to-the-Semantic-Web-Databases-v1.pdf)
+* **Apr 2018:** Giving two lectures at Purdue titled: ["Introduction to Semantic Web Databases"](files/presentations/introduction-to-semantic-web-databases.pdf)
 * **Feb 2018:** Joining Microsoft Knowledge Graph (Satori) as a Data and Applied Scientist Intern for Summer 2018.
 * **Apr 2015:** Joining Microsoft Research as a Research Intern for Summer 2015.
