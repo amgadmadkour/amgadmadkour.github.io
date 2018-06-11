@@ -16,8 +16,11 @@ redirect_from:
 
 ## Internships
 
+* Mirosoft Satori Knowledge Graph, Greater Seattle Area, WA, Summer 2018
+  * Project: Working on data management aspects of the Satori knowledge graph
+
 * Microsoft Research, Greater Seattle Area, WA, Summer 2015
-  * Project: Enhancing the dependency parser over web queries.
+  * Project: Enhancing the dependency parser over web queries
 
 * GIS Technology Innovation Center, Makkah, Summer 2014
   * Project: Analyzing microblogs (e.g, twitter)
@@ -47,7 +50,7 @@ redirect_from:
 ## Education
 
 * Purdue University
-  * Ph.D. of Computer Science
+  * Ph.D. of Computer Science (Expected Spring 2018)
 * The American University In Cairo, June 2009
   * Masters of Computer Science
 * Arab Academy for Science and Technology (Cairo Campus), Egypt, June 2003
