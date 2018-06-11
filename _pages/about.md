@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Im a PhD candidate at the [Department of Computer Science](http://www.cs.purdue.edu), [Purdue University](http://www.purdue.edu). Im advised by [Prof. Walid G. Aref](http://www.cs.purdue.edu/~aref). My research focuses on efficient query processing over web-scale RDF data.
+Amgad Madkour is a PhD candidate in the [Department of Computer Science](http://www.cs.purdue.edu), [Purdue University](http://www.purdue.edu).  His research interests is in the area of data management where he focuses on efficient query processing over web-scale semantic data​. Before joining Purdue, he was a Staff R&D Engineer in the human language technologies group at IBM Egypt. As a graduate student, he interned at Microsoft Research, Bing Knowledge Graph, and Yahoo!.
 
-Previously, I was an [IBM](https://www.ibm.com/eg-en/) Staff Research Engineer for 4 years. Iv also done internships in [Microsoft Research](http://www.microsoft.com/en-us/research/), [GISTIC](http://www.gistic.org/), and [Yahoo!](http://wwww.yahoo.com).
+He is currently advised by [Prof. Walid G. Aref](http://www.cs.purdue.edu/~aref)
 
 ## Research Interests
 
@@ -18,9 +18,11 @@ Previously, I was an [IBM](https://www.ibm.com/eg-en/) Staff Research Engineer f
 * Applied Machine Learning
 
 ## News
-
-* **Apr 2018:** Our paper titled "TrueWeb: A Proposal for Scalable Semantically-Guided Data Management and Truth Finding in Heterogeneous Web Sources" has been accepted in Semantic Big Data (SBD18) at SIGMOD 2018.
-* **Apr 2018:** Our paper titled "SPARTI: Scalable RDF Data Management Using Query-Centric Semantic Partitioning" has been accepted in Semantic Big Data (SBD18) at SIGMOD 2018.
+* **June 2018:** Posted slides for ["SPARTI: Scalable RDF Data Management Using Query-Centric Semantic Partitioning"](/files/presentations/SPARTI-SBD2018.pdf)
+* **June 2018:** Posted slides for ["TrueWeb: A Proposal for Scalable Semantically-Guided Data Management and Truth Finding in Heterogeneous Web Sources"]((/files/presentations/SPARTI-SBD2018.pdf))
+* **May 2018:** Our paper titled "WORQ: Workload Driven RDF Query Processing" has been accepted in International Semantic Web Conference (ISWC 2018)
+* **Apr 2018:** Our paper titled "TrueWeb: A Proposal for Scalable Semantically-Guided Data Management and Truth Finding in Heterogeneous Web Sources" has been accepted in Semantic Big Data (SBD18) at SIGMOD 2018
+* **Apr 2018:** Our paper titled "SPARTI: Scalable RDF Data Management Using Query-Centric Semantic Partitioning" has been accepted in Semantic Big Data (SBD18) at SIGMOD 2018
 * **Apr 2018:** Giving two lectures at Purdue titled: ["Introduction to Semantic Web Databases"](files/presentations/introduction-to-semantic-web-databases.pdf)
-* **Feb 2018:** Joining Microsoft Knowledge Graph (Satori) as a Data and Applied Scientist Intern for Summer 2018.
-* **Apr 2015:** Joining Microsoft Research as a Research Intern for Summer 2015.
+* **Feb 2018:** Joining Microsoft Knowledge Graph (Satori) as a Data and Applied Scientist Intern for Summer 2018
+* **Apr 2015:** Joining Microsoft Research as a Research Intern for Summer 2015
