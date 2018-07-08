@@ -50,7 +50,7 @@ redirect_from:
 ## Education
 
 * Purdue University
-  * Ph.D. of Computer Science (Expected Spring 2018)
+  * Ph.D. of Computer Science (Expected Fall 2018)
 * The American University In Cairo, June 2009
   * Masters of Computer Science
 * Arab Academy for Science and Technology (Cairo Campus), Egypt, June 2003
