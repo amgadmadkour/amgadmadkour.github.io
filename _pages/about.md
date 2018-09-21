@@ -13,9 +13,9 @@ Previously, I was an IBM Staff Research Engineer at IBM Egypt. Iv also done inte
 
 ## Research Interests
 
-* Web Data Management
 * Database Systems
-* Applied Machine Learning
+* Data Management
+* Data Mining
 
 ## News
 * **June 2018:** Posted slides for ["SPARTI: Scalable RDF Data Management Using Query-Centric Semantic Partitioning"](/files/presentations/SPARTI-SBD2018.pdf)
