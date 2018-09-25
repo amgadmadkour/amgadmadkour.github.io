@@ -14,11 +14,11 @@ author_profile: true
 
 ## Conferences and Workshops
 
-* Amgad Madkour, Ahmed M. Ali, Walid G. Aref, "WORQ: Workload-driven RDF Query Processing", ISWC 2018
+* Amgad Madkour, Ahmed M. Ali, Walid G. Aref, "WORQ: Workload-driven RDF Query Processing", ISWC 2018 [[Paper](/files/papers/worq.pdf)]
 
-* Amgad Madkour, Walid G. Aref, Ahmed M. Aly, "SPARTI: Scalable RDF Data Management Using Query-Centric Semantic Partitioning", Semantic Big Data (SBD18)
+* Amgad Madkour, Walid G. Aref, Ahmed M. Aly, "SPARTI: Scalable RDF Data Management Using Query-Centric Semantic Partitioning", Semantic Big Data (SBD18) [[Paper](/files/papers/sparti.pdf)]
 
-* Amgad Madkour, Walid G. Aref, Sunil Prabhakar, Mohamed Ali, Siarhei Bykau, "TrueWeb: A Proposal for Scalable Semantically-Guided Data Management and Truth Finding in Heterogeneous Web Sources", Semantic Big Data (SBD18)
+* Amgad Madkour, Walid G. Aref, Sunil Prabhakar, Mohamed Ali, Siarhei Bykau, "TrueWeb: A Proposal for Scalable Semantically-Guided Data Management and Truth Finding in Heterogeneous Web Sources", Semantic Big Data (SBD18) [[Paper](/files/papers/trueweb.pdf)]
 
 * Amgad Madkour, Walid G Aref, Faizan Ur Rehman, Mohamed Abdur Rahman, Saleh Basalamah, "A Survey of Shortest-Path Algorithms", Technical Report. arXiv 2017 [[Paper](https://arxiv.org/pdf/1705.02044.pdf)]
 
