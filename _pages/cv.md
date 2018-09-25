@@ -16,8 +16,8 @@ redirect_from:
 
 ## Internships
 
-* Mirosoft Satori Knowledge Graph, Greater Seattle Area, WA, Summer 2018
-  * Project: Working on data management aspects of the Satori knowledge graph
+* Mirosoft AI+Research, Greater Seattle Area, WA, Summer 2018
+  * Project: Working on data management aspects of the Microsoft knowledge graph
 
 * Microsoft Research, Greater Seattle Area, WA, Summer 2015
   * Project: Enhancing the dependency parser over web queries
