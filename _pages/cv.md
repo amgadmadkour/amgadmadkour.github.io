@@ -12,7 +12,7 @@ redirect_from:
 ## Current Role
 
 * Purdue University
-  * Research Assistant
+  * Graduate Assistant
 
 ## Internships
 
