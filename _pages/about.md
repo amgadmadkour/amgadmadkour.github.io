@@ -18,6 +18,7 @@ Previously, I was an IBM Staff Research Engineer at IBM Egypt. Iv also done inte
 * Data Mining
 
 ## News
+* **October 2018:** Posted slides for ["WORQ: Workload-Driven RDF Query Processing"](/files/presentations/WORQ-ISWC2018.pdf)
 * **June 2018:** Posted slides for ["SPARTI: Scalable RDF Data Management Using Query-Centric Semantic Partitioning"](/files/presentations/SPARTI-SBD2018.pdf)
 * **June 2018:** Posted slides for ["TrueWeb: A Proposal for Scalable Semantically-Guided Data Management and Truth Finding in Heterogeneous Web Sources"](/files/presentations/TrueWeb-SBD2018.pdf)
 * **May 2018:** Our paper titled "WORQ: Workload Driven RDF Query Processing" has been accepted in International Semantic Web Conference (ISWC 2018)

@@ -14,7 +14,7 @@ author_profile: true
 
 ## Conferences and Workshops
 
-* Amgad Madkour, Ahmed M. Ali, Walid G. Aref, "WORQ: Workload-driven RDF Query Processing", ISWC 2018 [[Paper](/files/papers/worq.pdf)]
+* Amgad Madkour, Ahmed M. Ali, Walid G. Aref, "WORQ: Workload-driven RDF Query Processing", ISWC 2018 [[Paper](/files/papers/worq.pdf)][[Slides]](/files/presentations/WORQ-ISWC2018.pdf)
 
 * Amgad Madkour, Walid G. Aref, Ahmed M. Aly, "SPARTI: Scalable RDF Data Management Using Query-Centric Semantic Partitioning", Semantic Big Data (SBD18) [[Paper](/files/papers/sparti.pdf)][[Slides](/files/presentations/SPARTI-SBD2018.pdf)]
 
