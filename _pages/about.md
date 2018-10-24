@@ -9,7 +9,7 @@ redirect_from:
 
 Im a PhD candidate at the [Department of Computer Science](http://www.cs.purdue.edu), [Purdue University](http://www.purdue.edu). Im advised by [Prof. Walid G. Aref](http://www.cs.purdue.edu/~aref). My research focuses on efficient query processing over web-scale RDF data.
 
-Previously, I was an IBM Staff Research Engineer at IBM Egypt. Iv also done internships in Microsoft Research, Microsoft Satori Knowledge Graph, and Yahoo!.
+Previously, I was an IBM Staff Research Engineer at IBM Egypt. Iv also done internships in Microsoft Research, Microsoft AI+Research, and Yahoo!.
 
 ## Research Interests
 
