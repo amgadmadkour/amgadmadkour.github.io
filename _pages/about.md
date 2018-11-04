@@ -14,6 +14,7 @@ Previously, I was an IBM Staff Research Engineer at IBM Egypt. Iv also done inte
 ## Research Interests
 
 * Data Management
+* Database Systems
 * Data Mining
 
 ## News
