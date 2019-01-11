@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Im a PhD candidate at the [Department of Computer Science](http://www.cs.purdue.edu), [Purdue University](http://www.purdue.edu). Im advised by [Prof. Walid G. Aref](http://www.cs.purdue.edu/~aref). My research focuses on efficient query processing over web-scale RDF data.
+Im a Data Scientist at Microsoft AI and Research working on the Satori Knowledge Graph. Iv completed my Ph.D at the [Department of Computer Science](http://www.cs.purdue.edu), [Purdue University](http://www.purdue.edu). I was advised by [Prof. Walid G. Aref](http://www.cs.purdue.edu/~aref). My research is in the broad area of data management, with special focus on the RDF data model.
 
 Previously, I was an IBM Staff Research Engineer at IBM Egypt. Iv also done internships in Microsoft Research, Microsoft AI+Research, and Yahoo!.
 
@@ -18,6 +18,8 @@ Previously, I was an IBM Staff Research Engineer at IBM Egypt. Iv also done inte
 * Data Mining
 
 ## News
+* **January 2019:** Iv joined Microsoft as a Data Scientist
+* **December 2018:** Iv successfully defended my thesis dissertation titled "Efficient Query Processing Over Web-Scale RDF Data"
 * **October 2018:** Posted slides for ["WORQ: Workload-Driven RDF Query Processing"](/files/presentations/WORQ-ISWC2018.pdf)
 * **June 2018:** Posted slides for ["SPARTI: Scalable RDF Data Management Using Query-Centric Semantic Partitioning"](/files/presentations/SPARTI-SBD2018.pdf)
 * **June 2018:** Posted slides for ["TrueWeb: A Proposal for Scalable Semantically-Guided Data Management and Truth Finding in Heterogeneous Web Sources"](/files/presentations/TrueWeb-SBD2018.pdf)
