@@ -18,7 +18,7 @@ Previously, I was an IBM Staff Research Engineer at IBM Egypt. Iv also done inte
 * Data Mining
 
 ## News
-* **January 2019:** Iv joined Microsoft as an Applied Scientist
+* **January 2019:** I joined Microsoft as an Applied Scientist
 * **December 2018:** Iv successfully defended my thesis dissertation titled "Efficient Query Processing Over Web-Scale RDF Data"
 * **October 2018:** Posted slides for ["WORQ: Workload-Driven RDF Query Processing"](/files/presentations/WORQ-ISWC2018.pdf)
 * **June 2018:** Posted slides for ["SPARTI: Scalable RDF Data Management Using Query-Centric Semantic Partitioning"](/files/presentations/SPARTI-SBD2018.pdf)
