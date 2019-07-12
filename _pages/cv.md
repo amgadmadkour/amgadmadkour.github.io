@@ -11,8 +11,7 @@ redirect_from:
 
 ## Current Role
 
-* Purdue University
-  * Graduate Assistant
+* Microsoft AI & Research (AI+R)
 
 ## Internships
 
@@ -35,6 +34,9 @@ redirect_from:
 
 ## Academic Experience
 
+* Purdue University
+  * Graduate Assistant
+
 * The American University in Cairo, Cairo, Egypt, Jul 2007-Jul 2008
   * Research Assistant, Microsoft Grant
 
@@ -50,8 +52,8 @@ redirect_from:
 ## Education
 
 * Purdue University
-  * Ph.D. of Computer Science (Expected Fall 2018)
-* The American University In Cairo, June 2009
+  * Ph.D. of Computer Science (2019)
+* The American University In Cairo (2009)
   * Masters of Computer Science
-* Arab Academy for Science and Technology (Cairo Campus), Egypt, June 2003
+* Arab Academy for Science and Technology (2003)
   * Bachelor of Computer Science

@@ -18,6 +18,7 @@ Previously, I was an IBM Staff Research Engineer at IBM Egypt. Iv also done inte
 * Data Mining
 
 ## News
+* **January 2019:** Our paper titled "BioNetApp: An Interactive Visual Data Analysis Platform for Molecular Expressions" has been accepted in PLOS-ONE journal
 * **January 2019:** I joined Microsoft as an Applied Scientist
 * **December 2018:** Iv successfully defended my thesis dissertation titled "Efficient Query Processing Over Web-Scale RDF Data"
 * **October 2018:** Posted slides for ["WORQ: Workload-Driven RDF Query Processing"](/files/presentations/WORQ-ISWC2018.pdf)
