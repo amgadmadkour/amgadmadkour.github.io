@@ -11,7 +11,7 @@ redirect_from:
 
 ## Current Role
 
-* Data & Applied Scientist, Microsoft AI & Research (AI+R)
+* Data & Applied Scientist, Microsoft AI & Research
 
 ## Internships
 

@@ -7,7 +7,7 @@ author_profile: true
 
 ## Current
 
-* **Satori Knowledge Graph:** Building analytical components for mining insights from the Satori knowledge graph.
+* **Satori Knowledge Graph:** Building graph analytics components for discovering insights from the Satori knowledge graph.
 
 ## Previous
 

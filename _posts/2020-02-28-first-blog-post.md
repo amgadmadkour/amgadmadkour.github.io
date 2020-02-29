@@ -7,7 +7,7 @@ tags:
   - about
 ---
 
-In this blog, i hope to share some of the experiences and ideas that i encounter in my new role as a Data & Applied Scientist at Microft. Specifically, i am hoping to share some of the issues related to managing and discovering information on one of the biggest knowledge graphs in the world.
+In this blog, my hope is to share some of the experiences and thoughts related to my current role as a Data & Applied Scientist. Specifically, i am hoping to share some of the challeges related to managing and discovering information on one of the biggest knowledge graphs in the world.
 
 The blog will be covering the following topics:
 - Data Management - Graph data management challenges.
