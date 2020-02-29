@@ -7,10 +7,12 @@ author_profile: true
 
 ## Current
 
-* **Scalable RDF Data Management:** This work addresses the challenges of realizing a scalable RDF Management system over an existing distributed relational database setting.
-  * [Visit Website](https://github.com/amgadmadkour/knowledgecubes)
+* **Satori Knowledge Graph:** Building analytical components for mining insights from the Satori knowledge graph.
 
 ## Previous
+
+* **Scalable RDF Data Management:** This work addresses the challenges of realizing a scalable RDF Management system over an existing distributed relational database setting.
+  * [Visit Website](https://github.com/amgadmadkour/knowledgecubes)
 
 * **Geotagging Non-spatial concepts:** Modeling concept co-occurrences within the same textual resources can expose interesting relations between spatial and non-spatial concepts. In this project, we illustrate how one can geotag a non-spatial query concept by associating it with relevant spatial concepts in an automated fashion. We propose a semantic query processing algorithm that uses a modified variant of Personalized PageRank to identify the semantically related concepts to the query.
 
