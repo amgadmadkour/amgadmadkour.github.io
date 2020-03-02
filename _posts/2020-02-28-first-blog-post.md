@@ -2,7 +2,7 @@
 title: 'First Blog Post'
 date: 2020-02-28
 sitemap: false
-permalink: /posts/2020/28/first-blog-post.html
+permalink: /posts/2020/02/28/first-blog-post.html
 tags:
   - about
 ---

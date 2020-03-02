@@ -2,7 +2,7 @@
 title: 'Allow Kubernetes To Pull Large Image Sizes'
 date: 2020-02-29
 sitemap: false
-permalink: /posts/2020/29/k8s-size-restriction.html
+permalink: /posts/2020/02/29/k8s-size-restriction.html
 tags:
   - kubernetes
   - docker
