@@ -12,9 +12,9 @@ In some instances, pods are not immediately terminated. The status of a pod may 
 ```code
 kubectl delete pod <pod_Name> --grace-period=0 --force --namespace <namespace>
 ```
-The <pod_name> parameter can be identified using the following command:
+The **pod_name** parameter can be identified using the following command:
 
 ```code
 kubectl get pods
 ```
-The <namespace> parameter indicates the namespace used when creating the pod.
+The **namespace** parameter indicates the namespace used when creating the pod.
