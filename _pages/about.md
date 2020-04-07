@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Im an Applied Scientist at Microsoft AI and Research (AI+R) working on the Satori Knowledge Graph. Iv completed my Ph.D at the [Department of Computer Science](http://www.cs.purdue.edu), [Purdue University](http://www.purdue.edu). I was advised by [Prof. Walid G. Aref](http://www.cs.purdue.edu/~aref).
+Im a Data & Applied Scientist at Microsoft in the Satori Knowledge Platform team. Iv completed my Ph.D at the [Department of Computer Science](http://www.cs.purdue.edu), [Purdue University](http://www.purdue.edu). I was advised by [Prof. Walid G. Aref](http://www.cs.purdue.edu/~aref).
 
 Previously, I was an IBM Staff Research Engineer at IBM Egypt. Iv also done internships in Microsoft Research, Microsoft AI+Research, and Yahoo!.
 
