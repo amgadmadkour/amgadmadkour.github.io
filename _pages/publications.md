@@ -52,6 +52,10 @@ author_profile: true
 
 * Amgad Madkour, Hany Hassan, "SELECTING A DATA ELEMENT IN A NETWORK", United States Patent, Filed 25 July 2011. [[View Patent](http://www.google.com/patents/US20120054200)]
 
-## Masters Thesis
+## Ph.D Thesis
 
-* Amgad Madkour. Pervasive Open Spaces: An Intelligent and Scalable Pervasive Environment for Providing Contextual Resource Sharing. MSc.Computer Science thesis, Computer Science Department, The American University in Cairo, July 2008 [[View AUC Library Record](http://lib.aucegypt.edu/record=b1586297)]
+* Amgad M. Madkour, "Efficient Query Processing Over Web-Scale RDF Data", Ph.D Computer Science thesis, Computer Science Department, Purdue University, January 2019 [[View Publication](https://hammer.figshare.com/articles/Efficient_Query_Processing_Over_Web-Scale_RDF_Data/7413308/1)]
+
+## MSc. Thesis
+
+* Amgad Madkour, "Pervasive Open Spaces: An Intelligent and Scalable Pervasive Environment for Providing Contextual Resource Sharing", MSc.Computer Science thesis, Computer Science Department, The American University in Cairo, July 2008 [[View Publication](http://lib.aucegypt.edu/record=b1586297)]
