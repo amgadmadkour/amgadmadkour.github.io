@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Im a Data & Applied Scientist at Microsoft in the Satori Knowledge Platform team. Iv completed my Ph.D at the [Department of Computer Science](http://www.cs.purdue.edu), [Purdue University](http://www.purdue.edu). I was advised by [Prof. Walid G. Aref](http://www.cs.purdue.edu/~aref).
+Im a Data & Applied Scientist at Microsoft in the Satori Knowledge Platform team. Iv completed my Ph.D at the [Department of Computer Science](http://www.cs.purdue.edu), [Purdue University](http://www.purdue.edu). I was advised by [Prof. Walid G. Aref](http://www.cs.purdue.edu/~aref). My research is at the intersection of data management and artificial intelligence where I focus on scalable approaches for extracting insight from web-scale graph data.
 
-Previously, I was an IBM Staff Research Engineer at IBM Egypt. Iv also done internships in Microsoft Research, Microsoft AI+Research, and Yahoo!.
+Prior to joining Microsoft, I was an IBM Staff Research Engineer at IBM Egypt. I’ve also done internships in Microsoft Research, Microsoft AI+Research, and Yahoo!
 
 ## Research Interests
 
-* Data Management
-* Database Systems
-* Data Mining
+* Knowledge Graphs and Knowledge Management
+* Graph Data Management
+* Data Mining & Analytics
 
 ## News
 * **January 2019:** Our paper titled ["BioNetApp: An Interactive Visual Data Analysis Platform for Molecular Expressions"](https://www.researchgate.net/publication/331290263_BioNetApp_An_interactive_visual_data_analysis_platform_for_molecular_expressions) has been accepted in PLOS-ONE journal
