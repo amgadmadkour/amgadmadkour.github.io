@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a Data & Applied Scientist at Microsoft Satori Knowledge Platform team. My research is in the area of data platform and analytics where I focus on creating scalable systems for mining and exploring web-scale graphs.
 
-I've completed my Ph.D at the [Department of Computer Science](http://www.cs.purdue.edu), [Purdue University](http://www.purdue.edu). Prior to joining Microsoft, I was a Staff Research Engineer at IBM Egypt I've also done internships in Microsoft Research, Microsoft AI+Research, and Yahoo!
+I’ve completed my Ph.D. at the Department of Computer Science, Purdue University. Prior to joining Microsoft, I was a Staff Research Engineer at IBM Egypt I’ve also done internships in Microsoft Research, Microsoft AI+Research, and Yahoo!
 
 ## Research Interests
 * Graph Data Management
