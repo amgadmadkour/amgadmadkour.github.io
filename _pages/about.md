@@ -7,19 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I’m a Data & Applied Scientist at Microsoft Satori Knowledge Platform. My research is in the area of data platform and analytics where I focus on creating scalable systems for mining and exploring web-scale graphs.
+I’m a Data & Applied Scientist at Microsoft. I'm part of the Knowledge platform team where i focus on data management issues related to the Satori knowledge graph. My research is in the area of data platform and analytics. I'm interested in creating scalable systems and techniques for mining and exploring web-scale graphs.
 
 I’ve completed my Ph.D. at the Department of Computer Science, Purdue University. Prior to joining Microsoft, I was a Staff Research Engineer at IBM Egypt. I’ve also done internships in Microsoft Research, Microsoft AI+Research, and Yahoo!.
 
 ## Research Interests
-* Graph Data Management
+* Data Management
 * Data Mining & Analytics
 * Query Processing and Optimization
-* Knowledge Graphs and Knowledge Management
 
 ## News
 * **January 2019:** Our paper titled ["BioNetApp: An Interactive Visual Data Analysis Platform for Molecular Expressions"](https://www.researchgate.net/publication/331290263_BioNetApp_An_interactive_visual_data_analysis_platform_for_molecular_expressions) has been accepted in PLOS-ONE journal
-* **January 2019:** I joined Microsoft as an Applied Scientist
+* **January 2019:** I joined Microsoft as a Data & Applied Scientist
 * **December 2018:** Iv successfully defended my thesis dissertation titled ["Efficient Query Processing Over Web-Scale RDF Data"](/files/Efficient_Query_Processing_Over_Web_Scale_RDF_Data.pdf)
 * **October 2018:** Posted slides for ["WORQ: Workload-Driven RDF Query Processing"](/files/presentations/WORQ-ISWC2018.pdf)
 * **June 2018:** Posted slides for ["SPARTI: Scalable RDF Data Management Using Query-Centric Semantic Partitioning"](/files/presentations/SPARTI-SBD2018.pdf)
