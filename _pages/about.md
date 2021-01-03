@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I’m a Data & Applied Scientist at Microsoft. I'm part of the Knowledge platform team where i focus on data management issues related to the Satori knowledge graph. My research is in the area of data platform and analytics. I'm interested in creating scalable systems and techniques for mining and exploring web-scale graphs.
+I’m a Data & Applied Scientist at Microsoft. I'm part of the Knowledge platform team where i focus on data platform and analytics issues of knowledge graphs. I'm interested in creating scalable systems and techniques for mining and exploring web-scale graphs.
 
 I’ve completed my Ph.D. at the Department of Computer Science, Purdue University. Prior to joining Microsoft, I was a Staff Research Engineer at IBM Egypt. I’ve also done internships in Microsoft Research, Microsoft AI+Research, and Yahoo!.
 
 ## Research Interests
 * Data Management
-* Data Mining & Analytics
-* Query Processing and Optimization
+* Data Analytics
+* Artificial Intelligence
 
 ## News
 * **January 2019:** Our paper titled ["BioNetApp: An Interactive Visual Data Analysis Platform for Molecular Expressions"](https://www.researchgate.net/publication/331290263_BioNetApp_An_interactive_visual_data_analysis_platform_for_molecular_expressions) has been accepted in PLOS-ONE journal
