@@ -11,18 +11,15 @@ redirect_from:
 
 ## Current Role
 
-* Data & Applied Scientist, Microsoft AI & Research
+* Data & Applied Scientist, Microsoft
 
 ## Internships
 
-* Mirosoft AI+Research, Greater Seattle Area, WA, Summer 2018
+* Mirosoft, Greater Seattle Area, WA, Summer 2018
   * Project: Working on data management aspects of the Microsoft knowledge graph
 
 * Microsoft Research, Greater Seattle Area, WA, Summer 2015
   * Project: Enhancing the dependency parser over web queries
-
-* GIS Technology Innovation Center, Makkah, Summer 2014
-  * Project: Analyzing microblogs (e.g, twitter)
 
 * Yahoo!,  Sunnyvale CA, Summer 2011
   * Project: Recommender System for Local Search
