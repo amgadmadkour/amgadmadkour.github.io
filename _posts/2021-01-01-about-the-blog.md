@@ -4,7 +4,7 @@ date: 2021-01-01
 sitemap: false
 permalink: /posts/2021/01/01/about-the-blog.html
 tags:
-  - knowledge-graphs, industry
+  - knowledge-graphs
 ---
 
 In this blog, i intend to share some of the thoughts i have related to knowledge graphs in industry. Specifically, i am hoping to share some of the challeges related to managing and discovering information that are common across companies like Google, Microsoft, Amazon, Apple, and Google.
