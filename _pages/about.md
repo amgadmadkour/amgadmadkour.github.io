@@ -9,7 +9,7 @@ redirect_from:
 
 I’m a Data & Applied Scientist at Microsoft. I'm part of the Knowledge platform team where i focus on data platform and analytics issues of knowledge graphs. I'm interested in creating scalable systems and techniques for mining and exploring web-scale graphs.
 
-I’ve completed my Ph.D. at the Department of Computer Science, Purdue University. Prior to joining Microsoft, I was a Staff Research Engineer at IBM Egypt. I’ve also done internships in Microsoft Research, Microsoft AI+Research, and Yahoo!.
+I’ve completed my Ph.D. at the Department of Computer Science, Purdue University. Prior to joining Microsoft, I was a Staff Research Engineer at IBM Egypt.
 
 ## Research Interests
 * Data Management

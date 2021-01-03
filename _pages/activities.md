@@ -11,11 +11,6 @@ author_profile: true
 
 ## Awards
 
-* Conference Travel Award
-  * ISWC, 2018
-  * SIGSPATIAL, 2015
-  * IEEE BigData, 2013
-  * The American University In Cairo, 2006
 * Research Grant Award
   * Microsoft Research, Cairo, 2007
 * IBM
