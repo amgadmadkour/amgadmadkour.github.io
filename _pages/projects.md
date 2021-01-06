@@ -7,7 +7,7 @@ author_profile: true
 
 ## Current
 
-* **Satori Knowledge Graph:** Building graph analytics components for discovering insights from the Satori knowledge graph.
+* **Graph Analytics:** Building a knowledge graph analytics platform for discovering insights from the Microsoft knowledge graph.
 
 ## Previous
 
