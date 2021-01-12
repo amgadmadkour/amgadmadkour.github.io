@@ -5,16 +5,16 @@ permalink: /activities.html
 author_profile: true
 ---
 
-## Memberships
-
-* Purdue CS Graduate Student Board, Travel Grants Chair, 2014
-
 ## Awards
 
 * Research Grant Award
   * Microsoft Research, Cairo, 2007
 * IBM
   * Award Of Achievement through 2006
+
+## Previous Memberships
+
+* Purdue CS Graduate Student Board, Travel Grants Chair, 2014
 
 ## Volunteer
 
