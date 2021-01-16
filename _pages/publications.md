@@ -48,8 +48,6 @@ author_profile: true
 
 ## Patents
 
-* Amgad Madkour, Saleh Basalamah, "SYSTEM, DEVICE, AND METHOD FOR TRACKING PRAYER", United States Patent, Filed 25 September 2014. [[View Patent](https://patents.google.com/patent/US20160092707A1)]
-
 * Amgad Madkour, Hany Hassan, "SELECTING A DATA ELEMENT IN A NETWORK", United States Patent, Filed 25 July 2011. [[View Patent](http://www.google.com/patents/US20120054200)]
 
 ## Ph.D Thesis
