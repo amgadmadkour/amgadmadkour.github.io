@@ -11,6 +11,10 @@ author_profile: true
 
 ## Previous
 
+* **Entity Resolution over Spark:** Migrated a complete rule-based entity resolution pipeline from Cosmos to Spark. 
+
+* **Scalable Candidate Generation:** Enhanced the performance of candidate generation for entity resolution by nearly 50% over batch data.
+
 * **Scalable RDF Data Management:** This work addresses the challenges of realizing a scalable RDF Management system over an existing distributed relational database setting.
   * [Visit Website](https://github.com/amgadmadkour/knowledgecubes)
 
