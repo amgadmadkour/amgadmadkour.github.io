@@ -13,16 +13,14 @@ redirect_from:
 
 * Data & Applied Scientist, Microsoft
 
-## Internships
+## Education
 
-* Mirosoft, Greater Seattle Area, WA, Summer 2018
-  * Project: Improve the graph walk performance of the entity resolution (Conflation) system for the Microsoft Satori knowledge graph. Also, work on a technique for catching conflation issues in the graph.
-
-* Microsoft Research, Greater Seattle Area, WA, Summer 2015
-  * Project: Enhancing the dependency parser over web queries
-
-* Yahoo!,  Sunnyvale CA, Summer 2011
-  * Project: Developing a prototype recommender system for local businesses
+* Purdue University
+  * Ph.D. of Computer Science (2018)
+* The American University In Cairo (2009)
+  * Masters of Computer Science
+* Arab Academy for Science and Technology (2003)
+  * Bachelor of Computer Science
 
 ## Industrial Experience
 
@@ -46,11 +44,13 @@ redirect_from:
 * Georgia State University, Altanta, USA,  June 2000-August 2000
   * Student Assistant, Computer Security
 
-## Education
+## Internships
 
-* Purdue University
-  * Ph.D. of Computer Science (2019)
-* The American University In Cairo (2009)
-  * Masters of Computer Science
-* Arab Academy for Science and Technology (2003)
-  * Bachelor of Computer Science
+* Mirosoft, Greater Seattle Area, WA, Summer 2018
+  * Project: Improve the graph walk performance of the entity resolution (Conflation) system for the Microsoft Satori knowledge graph. Also, work on a technique for catching conflation issues in the graph.
+
+* Microsoft Research, Greater Seattle Area, WA, Summer 2015
+  * Project: Enhancing the dependency parser over web queries
+
+* Yahoo!,  Sunnyvale CA, Summer 2011
+  * Project: Developing a prototype recommender system for local businesses
