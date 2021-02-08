@@ -5,11 +5,7 @@ permalink: /projects.html
 author_profile: true
 ---
 
-## Current
-
-* **Graph Analytics:** Building a knowledge graph analytics platform for discovering insights from the Microsoft knowledge graph.
-
-## Previous Industry Projects
+## Industry Projects
 
 * **Entity Resolution over Spark:** Migrated a complete rule-based entity resolution pipeline from Cosmos to Spark. 
 
@@ -27,7 +23,7 @@ author_profile: true
 
 * **InfoMind:** Participated in the development of a system that analyzes large volumes of unstructured textual information to discover, organize and deliver relevant knowledge to the end-user.
 
-## Previous Academic Projects
+## Academic Projects
 
 * **Scalable RDF Data Management:** This work addresses the challenges of realizing a scalable RDF Management system over an existing distributed relational database setting.
   * [Visit Website](https://github.com/amgadmadkour/knowledgecubes)
