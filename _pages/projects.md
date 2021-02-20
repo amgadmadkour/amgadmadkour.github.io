@@ -7,7 +7,7 @@ author_profile: true
 
 ## Industry Projects
 
-* **Entity Resolution over Spark:** Migrated a complete rule-based entity resolution pipeline from Cosmos to Spark. 
+* **Entity Matching over Spark:** Created a complete rule-based entity resolution pipeline that runs on Spark. 
 
 * **Scalable Candidate Generation:** Enhanced the performance of candidate generation for entity resolution by nearly 50% over batch data.
 
