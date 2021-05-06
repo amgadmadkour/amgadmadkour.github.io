@@ -7,14 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I’m a Data & Applied Scientist at Microsoft and a member of the Knowledge Platform team. My work focuses on developing data platform and analytics techniques over graphs. I’ve completed my Ph.D. at the Department of Computer Science, Purdue University, working with Prof. Walid Aref. During my Ph.D., I worked on creating scalable query processing techniques over web-scale graphs. Before joining Microsoft, I was a Staff Research Engineer at IBM where I worked in the areas of Natural Language Processing, Machine Translation, and Information Retrieval.
+I’m a Data & Applied Scientist at Microsoft and a member of the Entity Exploration team. My work focuses on developing techniques for exploring and mining the Microsoft Knowledge graph. I’ve completed my Ph.D. at the Department of Computer Science, Purdue University, working with Prof. Walid Aref. During my Ph.D., I worked on creating scalable query processing techniques over web-scale graphs. Before joining Microsoft, I was a Staff Research Engineer at IBM where I worked in the areas of Natural Language Processing, Machine Translation, and Information Retrieval.
 
 ## Research Interests
+* Knowledge Graph Construction
 * Data Management
 * Data Analytics
-* Artificial Intelligence
 
 ## News
+* **May 2021:**: Giving a talk titled ["Entity Life Cycle In Search-Centric Knowledge Graphs"](/_talks/2021-05-06-entitylifecycle.md) in the Knowledge Graph Conference 2021 (KGC 2021)
 * **January 2019:** Our paper titled ["BioNetApp: An Interactive Visual Data Analysis Platform for Molecular Expressions"](https://www.researchgate.net/publication/331290263_BioNetApp_An_interactive_visual_data_analysis_platform_for_molecular_expressions) has been accepted in PLOS-ONE journal
 * **January 2019:** I joined Microsoft as an Applied Scientist
 * **December 2018:** Iv successfully defended my thesis dissertation titled ["Efficient Query Processing Over Web-Scale RDF Data"](/files/Efficient_Query_Processing_Over_Web_Scale_RDF_Data.pdf)

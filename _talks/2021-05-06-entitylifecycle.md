@@ -1,0 +1,13 @@
+---
+title: "Entity Life Cycle In Search-Centric Knowledge Graphs"
+collection: talks
+type: "Conference proceedings talk"
+permalink: /talks/2021-05-06-entitylifecycle.html
+venue: "KGC 2021"
+date: 2021-05-06
+location: "Virtual"
+---
+
+[[Download Slides](/files/presentations/entitylifecycle-kgc2021.pdf)]
+
+Cloud-based systems provide a rich platform for managing large-scale RDF data. However, the distributed nature of these systems introduces several performance challenges, e.g., disk I/O and network shuffling overhead, especially for RDF queries that involve multiple join operations. To alleviate these challenges, this paper studies the effect of several optimization techniques that enhance the performance of RDF queries. Based on the query workload, reduced sets of intermediate results (or reductions, for short) that are common for certain join pattern(s) are computed. Furthermore, these reductions are not computed beforehand, but are rather computed only for the frequent join patterns in an online fashion using Bloom filters. Rather than caching the final results of each query, we show that caching the reductions allows reusing intermediate results across multiple queries that share the same join patterns. In addition, we introduce an efficient solution for RDF queries with unbound properties. Based on a realization of the proposed optimizations on top of Spark, extensive experimentation using two synthetic benchmarks and a real dataset demonstrates how these optimizations lead to an order of magnitude enhancement in terms of preprocessing, storage, and query performance compared to the state-of-the-art solutions.
