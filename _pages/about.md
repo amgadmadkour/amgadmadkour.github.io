@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I’m a Data & Applied Scientist at Microsoft and a member of the Entity Exploration team. My work focuses on developing techniques for exploring and mining the Microsoft Knowledge graph. I’ve completed my Ph.D. at the Department of Computer Science, Purdue University, working with Prof. Walid Aref. During my Ph.D., I worked on creating scalable query processing techniques over web-scale graphs. Before joining Microsoft, I was a Staff Research Engineer at IBM where I worked in the areas of Natural Language Processing, Machine Translation, and Information Retrieval.
+I’m a Data & Applied Scientist at Microsoft and a member of the Entity Exploration team. My work focuses on extracting, exploring, and mining entities from the web to create rich entity experiences in Microsoft Bing. I’ve completed my Ph.D. at the Department of Computer Science, Purdue University. Before joining Microsoft, I was a Staff Research Engineer at IBM.
 
 ## Research Interests
-* Data Management
-* Data Analytics
-* Artificial Intelligence
+* Knowledge Graphs
+* Machine Learning
+* Natural Language Processing
 
 ## News
 * **May 2021:**: Giving a talk titled ["Entity Life Cycle In Search-Centric Knowledge Graphs"](https://amgadmadkour.github.io/talks/2021-05-06-entitylifecycle.html) in the Knowledge Graph Conference 2021 (KGC 2021)
