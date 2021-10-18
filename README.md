@@ -1,4 +1,6 @@
-# Personal Website 
+# Homepage
+
+The homepage was built using [Jekyll](https://jekyllrb.com/) and uploaded on Github pages.
 
 ## Instructions
 1. Clone the repository

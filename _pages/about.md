@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a Data & Applied Scientist at Microsoft and a member of the Entity Exploration team. My work focuses on extracting, exploring, and mining entities from the web to create rich entity experiences in Microsoft Bing. I’ve completed my Ph.D. at the Department of Computer Science, Purdue University. Before joining Microsoft, I was a Staff Research Engineer at IBM.
+I’m an Applied Scientist at Microsoft and a member of the Marketplace Intelligence team. My work focuses on discovering relevant and highly personalized and contextual information around consumer products. I’ve completed my Ph.D. at the Department of Computer Science, Purdue University. During my Ph.D., I worked on creating scalable data-driven techniques for query processing over web graphs. Prior to that, I was a Research Engineer at IBM where I worked in the areas of Natural Language Processing, Information Extraction, and Information Retrieval.
 
 ## Research Interests
 * Knowledge Graphs
