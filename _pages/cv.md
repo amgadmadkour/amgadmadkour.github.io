@@ -11,7 +11,7 @@ redirect_from:
 
 ## Current Role
 
-* Data & Applied Scientist, Microsoft
+* Applied Scientist, Microsoft
 
 ## Education
 
