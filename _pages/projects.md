@@ -5,26 +5,6 @@ permalink: /projects.html
 author_profile: true
 ---
 
-## Industry Projects
-
-* **Entity Matching over Spark:** Created a complete rule-based entity resolution pipeline that runs on Spark. 
-
-* **Scalable Candidate Generation:** Enhanced the performance of candidate generation for entity resolution by nearly 50% over batch data.
-
-* **Recommendation System for Local Businesses:** Developed a tool that recommends relevant local businesses to users based on their entries in query logs.
-
-* **Tag Recommendation System:** Co-Invented and patented a K-Partite graph technique for recommendation of tags during bookmarking of resources.
-
-* **Spam Detection:** Identified a set of features that define spamming bookmarks in social media and evaluated their feasibility through a comparative study on various machine learning techniques.
-
-* **Bionoculars:** Developed a system that automatically extracts interactions between entities such as proteins, chemicals, and diseases from biomedical text with preliminary focus on protein-protein interaction.
-
-* **Machine Assisted Translation:** Developed a system to assist the translator by providing suggestions via auto-completion relating to the document being translated.
-
-* **InfoMind:** Participated in the development of a system that analyzes large volumes of unstructured textual information to discover, organize and deliver relevant knowledge to the end-user.
-
-## Academic Projects
-
 * **Scalable RDF Data Management:** This work addresses the challenges of realizing a scalable RDF Management system over an existing distributed relational database setting.
   * [Visit Website](https://github.com/amgadmadkour/knowledgecubes)
 
