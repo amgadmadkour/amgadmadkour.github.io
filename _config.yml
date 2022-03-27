@@ -270,6 +270,7 @@ whitelist:
 
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Archives
 #  Type
