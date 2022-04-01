@@ -2,7 +2,7 @@
 layout: single
 title: "CV"
 permalink: /cv.html
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---
@@ -11,7 +11,7 @@ redirect_from:
 
 ## Current Role
 
-* Applied Scientist, Microsoft
+* Senior Applied Scientist, Microsoft
 
 ## Education
 

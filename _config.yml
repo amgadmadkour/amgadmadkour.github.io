@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Amgad Madkour"
 title_separator          : "-"
-name                     : &name "Amgad Madkour"
-description              : &description "Amgad Madkour"
+#name                     : &name "Amgad Madkour"
+#description              : &description "Amgad Madkour"
 url                      : "https://amgadmadkour.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "amgadmadkour/amgadmadkour.github.io"
@@ -78,11 +78,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Amgad Madkour"
+  #name             : "Amgad Madkour"
   avatar           : "amgad.jpg"
-  bio              : "Applied Scientist"
+  #bio              : "Senior Applied Scientist"
   location         : 
-  employer         : "Microsoft, USA"
+  #employer         : "Microsoft, USA"
   googlescholar    : "http://scholar.google.com/citations?user=s4jIlGEAAAAJ&hl=en"
   email            : "amgad.madkour@microsoft.com"
   uri              :
@@ -191,7 +191,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
@@ -202,14 +202,14 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
   # _teaching
   - scope:
       path: ""
       type: teaching
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comments: true
   # _publications
@@ -218,7 +218,7 @@ defaults:
       type: publications
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comments: true
   # _portfolio
@@ -236,7 +236,7 @@ defaults:
       type: talks
     values:
       layout: talk
-      author_profile: true
+      author_profile: false
       share: true
 
 # Sass/SCSS

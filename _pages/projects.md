@@ -2,7 +2,7 @@
 layout: single
 title: "Projects"
 permalink: /projects.html
-author_profile: true
+author_profile: false
 ---
 
 * **Scalable RDF Data Management:** This work addresses the challenges of realizing a scalable RDF Management system over an existing distributed relational database setting.
