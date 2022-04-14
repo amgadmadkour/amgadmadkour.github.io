@@ -260,6 +260,7 @@ plugins_dir:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-seo-tag
+  - jekyll-last-modified-at
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -267,6 +268,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-last-modified-at
 
 plugins:
   - jekyll-feed
