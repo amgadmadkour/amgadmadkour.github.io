@@ -4,7 +4,6 @@ title: "Sitemap"
 permalink: /sitemap/
 author_profile: false
 sitemap: false
-show_in_nav: false
 ---
 
 {% include base_path %}
