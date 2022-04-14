@@ -2,7 +2,7 @@
 layout: single
 title: "CV"
 permalink: /cv.html
-author_profile: false
+author_profile: true
 redirect_from:
   - /resume
 ---

@@ -78,11 +78,11 @@ analytics:
 
 # Site Author
 author:
-  #name             : "Amgad Madkour"
+  name             : "Amgad Madkour"
   avatar           : "amgad.jpg"
-  #bio              : "Senior Applied Scientist"
+  bio              : "Senior Applied Scientist"
   location         : 
-  #employer         : "Microsoft, USA"
+  employer         : "Microsoft, USA"
   googlescholar    : "http://scholar.google.com/citations?user=s4jIlGEAAAAJ&hl=en"
   email            : "amgad.madkour@microsoft.com"
   uri              :

@@ -2,7 +2,7 @@
 layout: single
 title: "Publications"
 permalink: /publications.html
-author_profile: false
+author_profile: true
 ---
 
 {% include base_path %}
