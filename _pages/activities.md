@@ -3,6 +3,7 @@ layout: single
 title: "Activities"
 permalink: /activities.html
 author_profile: false
+sitemap: false
 ---
 
 ## Awards
