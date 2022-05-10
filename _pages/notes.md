@@ -2,7 +2,6 @@
 layout: single
 title: "Notes"
 permalink: /notes.html
-author_profile: true
+redirect_to:
+  - http://amgadmadkour.github.io/notes
 ---
-
-* [Python Notes](http://amgadmadkour.github.io/python-notes)

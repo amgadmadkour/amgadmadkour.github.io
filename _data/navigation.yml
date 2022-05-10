@@ -11,12 +11,12 @@ main:
 
   - title: "Talks"
     url: /talks/
-
-  - title: "Notes"
-    url: /notes.html
   
   - title: "CV"
     url: /cv.html
+
+  - title: "Notes"
+    url: /notes.html
 
 #  - title: "Blog Posts"
 #    url: /year-archive/
