@@ -7,14 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-Amgad Madkour is a member of the Consumer Shopping & Enterprise Commerce team. He obtained his Ph.D. in computer science from Purdue University where he focused on scalable query processing over web-scale graphs. Before joining Microsoft, he was a staff R&D engineer at IBM working in the areas of Machine Learning, Natural Language Processing, and Machine Translation. At Microsoft, he focuses on challenges related to Question Answering including query intent and document understanding.
+# About
+
+Amgad Madkour is a senior applied scientist lead at Microsoft. He obtained his Ph.D. in computer science from Purdue University. Before joining Microsoft, he was a staff R&D engineer at IBM working in the areas of Machine Learning, Natural Language Processing, and Machine Translation. At Microsoft, he currently focuses on the task of Question Answering.
 
 ## Research Interests
+
 * Knowledge Graphs
 * Machine Learning
 * Natural Language Processing
 
 ## News
+
 * **May 2021:**: Giving a talk titled ["Entity Life Cycle In Search-Centric Knowledge Graphs"](https://amgadmadkour.github.io/talks/2021-05-06-entitylifecycle.html) in the Knowledge Graph Conference 2021 (KGC 2021)
 * **January 2019:** Our paper titled ["BioNetApp: An Interactive Visual Data Analysis Platform for Molecular Expressions"](https://www.researchgate.net/publication/331290263_BioNetApp_An_interactive_visual_data_analysis_platform_for_molecular_expressions) has been accepted in PLOS-ONE journal
 * **January 2019:** I joined Microsoft as an Applied Scientist
