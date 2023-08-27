@@ -11,7 +11,7 @@ Amgad Madkour is a data & applied science manager at Microsoft. He obtained his 
 
 ## Areas of interest
 
-* Data Science
+* Artificial Intelligence
 * Data Management
 
 ## News
