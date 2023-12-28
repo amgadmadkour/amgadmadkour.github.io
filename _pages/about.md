@@ -7,15 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-Amgad Madkour is a data & applied science manager at Microsoft. He obtained his Ph.D. in computer science from Purdue University. Before joining Microsoft, he was a staff R&D engineer at IBM working in the areas of Machine Learning, Natural Language Processing, and Machine Translation. At Microsoft, he currently leads several end-to-end data-driven features for autos. In addition, he is actively investigating the usage of large language models (LLMS) for shopping as a mean for assisting users in their buying journey.
+I'm a Data & Applied Science Manager at Microsoft, where I lead a team of data scientists and engineers who are responsible for building and enhancing the content understanding capabilities for Microsoft Edge Shopping and Microsoft Autos Marketplace. At Microsoft, I lead several data-centric products, including Microsoft Edge Shopping Product Tracking, Microsoft Autos My Garage, and Microsoft Autos AI Assistant. I obtained my Ph.D. in Computer Science from Purdue University. Before joining Microsoft, I was a Staff R&D Engineer at IBM, working in the areas of Machine Learning, Natural Language Processing, and Machine Translation. My areas of interest include artificial intelligence, knowledge graphs, data management, data integration, and data cleaning. My mission is to leverage data science and artificial intelligence to create intelligent and adaptive solutions that deliver value to users.
 
 ## Areas of interest
 
 * Artificial Intelligence
+* Knowledge Graphs
 * Data Management
+* Data Integration
+* Data Cleaning
 
-## News
+## Updates
 
+* **October 2023**: Shipped ["Microsoft Autos AI Assistant"](https://www.msn.com/en-us/autos/marketplace/mygarage), a feature that provides LLM-based assistance for auto shoppers.
 * **April 2022**: Shipped ["My Garage"](https://www.msn.com/en-us/autos/marketplace/mygarage), a feature that aggregates all the information about a user's vehicle in one place.
 * **July 2022**: Joined Microsoft Autos Marketplace leadership team as a manager and created the autos content understanding team.
 * **May 2022**: Shipped ["Automotive Q&A"](https://www.msn.com/en-us/autos/marketplace/qna), a feature that brings value to buyers in their autos journey as well as to everyday users.

@@ -23,11 +23,11 @@ author_profile: true
 
 ## Internships
 
-* Mirosoft, Greater Seattle Area, WA, Summer 2018
+* Microsoft, Greater Seattle Area, WA, Summer 2018
   * Project: Improve the graph walk performance of the entity resolution (Conflation) system for the Microsoft Satori knowledge graph. Also, work on a technique for catching conflation issues in the graph.
 
 * Microsoft Research, Greater Seattle Area, WA, Summer 2015
-  * Project: Enhancing the dependency parser over web queries
+  * Project: Enhancing the dependency parser over web queries.
 
 * Yahoo!,  Sunnyvale CA, Summer 2011
-  * Project: Developing a prototype recommender system for local businesses
+  * Project: Developing a prototype recommender system for local businesses.
