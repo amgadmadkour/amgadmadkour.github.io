@@ -15,14 +15,13 @@ I'm a Data & Applied Science Manager at Microsoft, where I lead a team of data s
 * Knowledge Graphs
 * Data Management
 * Data Integration
-* Data Cleaning
 
 ## Updates
 
-* **October 2023**: Shipped ["Microsoft Autos AI Assistant"](https://www.msn.com/en-us/autos/marketplace/mygarage), a feature that provides LLM-based assistance for auto shoppers.
-* **April 2022**: Shipped ["My Garage"](https://www.msn.com/en-us/autos/marketplace/mygarage), a feature that aggregates all the information about a user's vehicle in one place.
+* **October 2023**: My team shipped ["Microsoft Autos AI Assistant"](https://www.msn.com/en-us/autos/marketplace/mygarage), a feature that provides LLM-based assistance for auto shoppers.
+* **April 2022**: My team shipped ["My Garage"](https://www.msn.com/en-us/autos/marketplace/mygarage), a feature that aggregates all the information about a user's vehicle in one place.
 * **July 2022**: Joined Microsoft Autos Marketplace leadership team as a manager and created the autos content understanding team.
-* **May 2022**: Shipped ["Automotive Q&A"](https://www.msn.com/en-us/autos/marketplace/qna), a feature that brings value to buyers in their autos journey as well as to everyday users.
+* **May 2022**: My team shipped ["Automotive Q&A"](https://www.msn.com/en-us/autos/marketplace/qna), a feature that brings value to buyers in their autos journey as well as to everyday users.
 * **March 2022**: Joined Microsoft Autos Marketplace as a Data & Applied Scientist Tech Lead.
 * **May 2021:**: Gave a talk titled ["Entity Life Cycle In Search-Centric Knowledge Graphs"](https://amgadmadkour.github.io/talks/2021-05-06-entitylifecycle.html) in the Knowledge Graph Conference 2021 (KGC 2021).
 * **January 2019:** Our paper titled ["BioNetApp: An Interactive Visual Data Analysis Platform for Molecular Expressions"](https://www.researchgate.net/publication/331290263_BioNetApp_An_interactive_visual_data_analysis_platform_for_molecular_expressions) has been accepted in PLOS-ONE journal.
