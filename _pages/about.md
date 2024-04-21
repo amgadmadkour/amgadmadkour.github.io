@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I lead the Shopping Content Understanding team at Microsoft AI. My team builds data-centric features for Microsoft Edge Shopping and Microsoft Autos Marketplace. I obtained my Ph.D. in Computer Science from Purdue University. Before joining Microsoft, I was a Staff R&D Engineer at IBM, working in the areas of Machine Learning, Natural Language Processing, and Machine Translation. My areas of interest include artificial intelligence, knowledge graphs, data management, and data integration. My current focus is to leverage artificial intelligence to create intelligent and adaptive solutions that deliver value to users.
+I lead the Shopping Content Understanding team at Microsoft AI. My team builds data-centric features for Microsoft Edge Shopping and Microsoft Autos Marketplace. I obtained my Ph.D. in Computer Science from Purdue University. Before joining Microsoft, I was a Staff R&D Engineer at IBM, working in the areas of Machine Learning, Natural Language Processing, and Machine Translation. My current focus is to leverage artificial intelligence to create intelligent and adaptive solutions that deliver value to users.
 
 ## Research Interests
 
