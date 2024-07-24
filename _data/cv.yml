@@ -1,0 +1,51 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Amgad Madkour
+    - name: Date of Birth
+      value: 28th June 1982
+    - name: Languages
+      value: English, Arabic
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: Purdue University, West Lafayette, Indiana, US
+      year: 2018
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Research Engineer
+      institution: IBM
+      year: 2006-2010
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 1921
+      items:
+        - Nobel Prize in Physics
+        - Matteucci Medal
+    - year: 2029
+      items:
+        - Max Planck Medal
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Topic 1.
+      items:
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
