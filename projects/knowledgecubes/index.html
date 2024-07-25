@@ -3,7 +3,7 @@
 </code></pre></div></div> <p>The database <code class="language-plaintext highlighter-rouge">kcdb</code> directory contains the actual data and reductions for the input NT file. The following is the directory structure of the local store:</p> <h3 id="run-query-workload">Run Query Workload</h3> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>spark-submit <span class="nt">--master</span> <span class="nb">local</span><span class="o">[</span><span class="k">*</span><span class="o">]</span> <span class="nt">--class</span> edu.purdue.knowledgecubes.BenchmarkReductionsCLI target/uber-knowledgecubes-0.1.0.jar <span class="nt">-l</span> /home/amadkour/kclocal <span class="nt">-f</span> 0.01 <span class="nt">-t</span> roaring <span class="nt">-d</span> /home/amadkour/kcdb <span class="nt">-q</span> src/main/resources/queries/original
 </code></pre></div></div> <p>The command generates the workload reductions under the <code class="language-plaintext highlighter-rouge">kcdb/reductions/join</code> directory. The partitions are saved using parquet format.</p> <h3 id="local-store-overview">Local Store Overview</h3> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ ls
 amadkour@amadkour:~/kclocal$ ls
-GEFI  dbinfo.yaml  dictionary  encoded.nt  join-reductions.yaml  
+GEFI  dbinfo.yaml  dictionary  encoded.nt  join-reductions.yaml
 results-20200625115017.txt  tables.yaml
 </code></pre></div></div> <ul> <li> <code class="language-plaintext highlighter-rouge">GEFI</code>: directory represents the generalized filters created for the input datasets.</li> <li> <code class="language-plaintext highlighter-rouge">dbinfo.yaml</code>: file lists meta-data about the store datasets.</li> <li> <code class="language-plaintext highlighter-rouge">dictionary</code>: directory containts the string to id mappings created by the dictionary module.</li> <li> <code class="language-plaintext highlighter-rouge">join-reductions.yaml</code>: directory contains metadata about the generated reductions.</li> <li> <code class="language-plaintext highlighter-rouge">results-20200625115017.txt</code>: is the output file containing the query performance output when running the benchmarking modules.</li> <li> <code class="language-plaintext highlighter-rouge">tables.yaml</code>: file lists the meta-data about the tables.</li> </ul> <h3 id="database-directory-overview">Database Directory Overview</h3> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>amadkour@amadkour:~/kcdb$ ls
 data  reductions
@@ -55,9 +55,9 @@ scala&gt; data.show<span class="o">()</span>
 <span class="k">val</span> <span class="nv">query</span> <span class="k">=</span>
   <span class="s">"""
     SELECT ?GivenName ?FamilyName WHERE{
-        ?p &lt;http://yago-knowledge.org/resource/hasGivenName&gt; ?GivenName . 
-        ?p &lt;http://yago-knowledge.org/resource/hasFamilyName&gt; ?FamilyName . 
-        ?p &lt;http://yago-knowledge.org/resource/wasBornIn&gt; ?city . 
+        ?p &lt;http://yago-knowledge.org/resource/hasGivenName&gt; ?GivenName .
+        ?p &lt;http://yago-knowledge.org/resource/hasFamilyName&gt; ?FamilyName .
+        ?p &lt;http://yago-knowledge.org/resource/wasBornIn&gt; ?city .
         ?p &lt;http://yago-knowledge.org/resource/hasAcademicAdvisor&gt; ?a .
         ?a &lt;http://yago-knowledge.org/resource/wasBornIn&gt; ?city .
     }
@@ -75,7 +75,7 @@ scala&gt; data.show<span class="o">()</span>
 <span class="k">val</span> <span class="nv">spark</span> <span class="k">=</span> <span class="nv">SparkSession</span><span class="o">.</span><span class="py">builder</span>
             <span class="o">.</span><span class="py">appName</span><span class="o">(</span><span class="n">s</span><span class="s">"KnowledgeCubes Filter Creator"</span><span class="o">)</span>
             <span class="o">.</span><span class="py">getOrCreate</span><span class="o">()</span>
-            
+
 <span class="k">var</span> <span class="n">localPath</span> <span class="k">=</span> <span class="s">"/path/to/db/path"</span>
 <span class="k">var</span> <span class="n">dbPath</span> <span class="k">=</span> <span class="s">"/path/to/local/path"</span>
 <span class="k">var</span> <span class="n">filterType</span> <span class="k">=</span> <span class="nv">GEFIType</span><span class="o">.</span><span class="py">ROARING</span>
