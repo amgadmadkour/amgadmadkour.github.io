@@ -19,7 +19,7 @@ I lead the shopping product tracking team at Microsoft AI. I obtained my Ph.D. i
 
 ## Research Interests
 
-* Artificial Intelligence
-* Knowledge Graphs
-* Data Management
-* Data Integration
+- Artificial Intelligence
+- Knowledge Graphs
+- Data Management
+- Data Integration

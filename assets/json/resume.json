@@ -25,7 +25,11 @@
       "position": "Data & Applied Science Manager",
       "location": "Redmond, USA",
       "startDate": "2019-01-01",
-      "highlights": ["Autos Marketplace: Technical lead for Automotive Q\&A, My Garage, Autos Listings, and Autos AI features that deliver differentiating content to automotive users.", "Platform for Interactive Concept Learning: Maintained and enhanced the model used by Microsoft Edge for extracting product information form e-Commerce domains.", "Entity Matching: Enhanced the performance of the entity matching stack by addressing the highly skewed data issues, delta entity matching, and optimizing the blocking technique."]
+      "highlights": [
+        "Autos Marketplace: Technical lead for Automotive Q&A, My Garage, Autos Listings, and Autos AI features that deliver differentiating content to automotive users.",
+        "Platform for Interactive Concept Learning: Maintained and enhanced the model used by Microsoft Edge for extracting product information form e-Commerce domains.",
+        "Entity Matching: Enhanced the performance of the entity matching stack by addressing the highly skewed data issues, delta entity matching, and optimizing the blocking technique."
+      ]
     },
     {
       "name": "Microsoft",
@@ -33,7 +37,9 @@
       "location": "Redmond, USA",
       "startDate": "2018-05-01",
       "endDate": "2018-08-01",
-      "highlights": ["Conflation Updates: Designed and implemented a conflation update component that is responsible for speeding up the reflection of conflation changes into the Satori final graph."]
+      "highlights": [
+        "Conflation Updates: Designed and implemented a conflation update component that is responsible for speeding up the reflection of conflation changes into the Satori final graph."
+      ]
     },
     {
       "name": "Microsoft Research",
@@ -41,7 +47,9 @@
       "location": "Redmond, USA",
       "startDate": "2015-05-01",
       "endDate": "2015-08-01",
-      "highlights": ["Dependency parsing: Conducted a series of experiments ranging from Up-training to Entity Linking to improve the dependency parsing accuracy."]
+      "highlights": [
+        "Dependency parsing: Conducted a series of experiments ranging from Up-training to Entity Linking to improve the dependency parsing accuracy."
+      ]
     },
     {
       "name": "Yahoo!",
@@ -57,7 +65,13 @@
       "location": "Cairo, Egypt",
       "startDate": "2006-01-01",
       "endDate": "2010-07-01",
-      "highlights": ["Tag Recommendation Technique: Co-Invented and patented a k-partite graph technique for recommendation of tags during bookmarking of resources.", "Spam Detection: Proposed a set of features that identify spamming bookmarks in social media and evaluated their feasibility over various machine learning algorithms.", "Extracting relations from biomedical text: Developed a system that automatically extracts interactions between entities such as proteins, chemicals, and diseases from biomedical text with preliminary focus on protein-protein interactions.", "Machine Assisted Translation: Developed a system that provides suggestions when translating documents. The system uses a continuous space language models for statistical machine translation.", "Unstructured Information Management Platform: Participated in a joint development with Watson lab in Yorktown to develop a system that analyzes large volumes of unstructured textual information from the news domain to discover, organize, and deliver relevant knowledge to end-users."]
+      "highlights": [
+        "Tag Recommendation Technique: Co-Invented and patented a k-partite graph technique for recommendation of tags during bookmarking of resources.",
+        "Spam Detection: Proposed a set of features that identify spamming bookmarks in social media and evaluated their feasibility over various machine learning algorithms.",
+        "Extracting relations from biomedical text: Developed a system that automatically extracts interactions between entities such as proteins, chemicals, and diseases from biomedical text with preliminary focus on protein-protein interactions.",
+        "Machine Assisted Translation: Developed a system that provides suggestions when translating documents. The system uses a continuous space language models for statistical machine translation.",
+        "Unstructured Information Management Platform: Participated in a joint development with Watson lab in Yorktown to develop a system that analyzes large volumes of unstructured textual information from the news domain to discover, organize, and deliver relevant knowledge to end-users."
+      ]
     }
   ],
   "volunteer": [
