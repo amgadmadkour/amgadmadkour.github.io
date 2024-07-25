@@ -3,7 +3,7 @@
     "name": "Amgad Madkour",
     "label": "Data & Applied Science Manager at Microsoft AI",
     "image": "",
-    "email": "",
+    "email": "amgad [dot] madkour [at] outlook [dot] com",
     "url": "https://amgadmadkour.github.io",
     "summary": "My current work focuses on building large-scale products that use various artificial intelligence techniques to deliver value to users.",
     "location": {
@@ -76,8 +76,7 @@
       "institution": "Purdue University",
       "location": "West Lafayette, USA",
       "url": "https://www.cs.purdue.edu",
-      "area": "Data Management",
-      "studyType": "PhD"
+      "studyType": "PhD in Computer Science"
     }
   ],
   "awards": [
