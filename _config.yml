@@ -134,8 +134,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Data Musings # blog_name will be displayed in your blog page
-blog_description: AI, Knowledge Graphs, and more
+blog_name: #Data Musings # blog_name will be displayed in your blog page
+blog_description: #AI, Knowledge Graphs, and more
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -203,12 +203,12 @@ collections:
 announcements:
   enabled: true
   scrollable: false # adds a vertical scroll bar if there are more than 3 news items
-  limit: 3 # leave blank to include all the news in the `_news` folder
+  limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 5 # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
