@@ -2,7 +2,7 @@
 layout: page
 title: Knowledge Cubes
 description: A semantically-guided data management architecture
-img: #assets/img/kc-logo.png
+img: assets/img/kc-logo.png
 importance: 1
 category: research
 related_publications: false
