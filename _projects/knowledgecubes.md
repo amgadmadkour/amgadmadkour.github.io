@@ -205,10 +205,10 @@ KC provides a set of benchmarking classes
 
 ## Publications
 
-- Amgad Madkour, Ahmed M. Ali, Walid G. Aref, "WORQ: Workload-driven RDF Query Processing", ISWC 2018 [[Paper](https://amgadmadkour.github.io/files/papers/worq.pdf)][[Slides](https://amgadmadkour.github.io/files/presentations/WORQ-ISWC2018.pdf)]
+- Amgad Madkour, Ahmed M. Ali, Walid G. Aref, "WORQ: Workload-driven RDF Query Processing", ISWC 2018 [[Paper](https://amgadmadkour.com/assets/papers/worq.pdf)][[Slides](https://amgadmadkour.com/assets/presentations/WORQ-ISWC2018.pdf)]
 
-- Amgad Madkour, Walid G. Aref, Ahmed M. Aly, "SPARTI: Scalable RDF Data Management Using Query-Centric Semantic Partitioning", Semantic Big Data (SBD18) [[Paper](https://amgadmadkour.github.io/files/papers/sparti.pdf)][[Slides](https://amgadmadkour.github.io/files/presentations/SPARTI-SBD2018.pdf)]
+- Amgad Madkour, Walid G. Aref, Ahmed M. Aly, "SPARTI: Scalable RDF Data Management Using Query-Centric Semantic Partitioning", Semantic Big Data (SBD18) [[Paper](https://amgadmadkour.com/assets/papers/sparti.pdf)][[Slides](https://amgadmadkour.com/assets/presentations/SPARTI-SBD2018.pdf)]
 
-- Amgad Madkour, Walid G. Aref, Sunil Prabhakar, Mohamed Ali, Siarhei Bykau, "TrueWeb: A Proposal for Scalable Semantically-Guided Data Management and Truth Finding in Heterogeneous Web Sources", Semantic Big Data (SBD18) [[Paper](https://amgadmadkour.github.io/files/papers/trueweb.pdf)][[Slides](https://amgadmadkour.github.io/files/presentations/TrueWeb-SBD2018.pdf)]
+- Amgad Madkour, Walid G. Aref, Sunil Prabhakar, Mohamed Ali, Siarhei Bykau, "TrueWeb: A Proposal for Scalable Semantically-Guided Data Management and Truth Finding in Heterogeneous Web Sources", Semantic Big Data (SBD18) [[Paper](https://amgadmadkour.com/assets/papers/trueweb.pdf)][[Slides](https://amgadmadkour.com/assets/presentations/TrueWeb-SBD2018.pdf)]
 
-- Amgad Madkour, Walid G. Aref, Saleh Basalamah, “Knowledge Cubes - A Proposal for Scalable and Semantically-Guided Management of Big Data”, IEEE BigData 2013 [[Paper](https://amgadmadkour.github.io/files/papers/bigdata2013.pdf)][[Slides](https://amgadmadkour.github.io/files/presentations/KnowledgeCubes.pdf)]
+- Amgad Madkour, Walid G. Aref, Saleh Basalamah, “Knowledge Cubes - A Proposal for Scalable and Semantically-Guided Management of Big Data”, IEEE BigData 2013 [[Paper](https://amgadmadkour.com/assets/papers/bigdata2013.pdf)][[Slides](https://amgadmadkour.com/assets/presentations/KnowledgeCubes.pdf)]
