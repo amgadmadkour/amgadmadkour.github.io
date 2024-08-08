@@ -40,7 +40,7 @@ The command generates the workload reductions under the `kcdb/reductions/join` d
 
 ### Local Store Overview
 
-```
+```bash
 $ ls
 amadkour@amadkour:~/kclocal$ ls
 GEFI  dbinfo.yaml  dictionary  encoded.nt  join-reductions.yaml
@@ -56,7 +56,7 @@ results-20200625115017.txt  tables.yaml
 
 ### Database Directory Overview
 
-```
+```bash
 amadkour@amadkour:~/kcdb$ ls
 data  reductions
 ```
