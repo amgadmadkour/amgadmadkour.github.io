@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://amgadmadkour.com/sitemap.xml
+Sitemap: https://amgadmadkour.github.io/sitemap.xml
