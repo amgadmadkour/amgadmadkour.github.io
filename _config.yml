@@ -165,7 +165,6 @@ giscus:
 disqus_shortname: al-folio # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
-
 # external_sources:
 #   - name: medium.com
 #     rss_url: https://medium.com/@al-folio/feed
