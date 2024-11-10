@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Amgad Madkour",
-    "label": "Data & Applied Science Manager at Microsoft AI",
+    "label": "Principal Data Science Manager at Microsoft AI",
     "image": "",
     "url": "https://amgadmadkour.com",
     "summary": "My current work focuses on building large-scale data products that use various artificial intelligence techniques to deliver value to users.",
@@ -21,7 +21,7 @@
   "work": [
     {
       "name": "Microsoft",
-      "position": "Data & Applied Science Manager",
+      "position": "Principal Data Science Manager",
       "location": "Redmond, USA",
       "startDate": "2019-01-01",
       "highlights": [
