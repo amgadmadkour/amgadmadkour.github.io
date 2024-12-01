@@ -7,4 +7,4 @@ title: Microsoft Shopping
 sitemap: false
 ---
 
-Moved to Data Science manager role at Microsoft AI leading the shopping product tracking.
+Selected for a Data Science manager role at Microsoft AI leading shopping product tracking.
