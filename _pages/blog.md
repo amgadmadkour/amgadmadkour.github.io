@@ -1,8 +1,8 @@
 ---
 layout: default
 permalink: /blog/
-title: Blog
-nav: false
+title: blog
+nav: true
 nav_order: 1
 pagination:
   enabled: true
@@ -14,7 +14,6 @@ pagination:
   trail:
     before: 1 # The number of links before the current page
     after: 3 # The number of links after the current page
-sitemap: false
 ---
 
 <div class="post">
@@ -30,7 +29,7 @@ sitemap: false
   </div>
   {% endif %}
 
-{% if site.display_tags or site.display_categories %}
+{% if site.display_tags and site.display_tags.size > 0 or site.display_categories and site.display_categories.size > 0 %}
 
   <div class="tag-category-list">
     <ul class="p-0 m-0">
@@ -180,7 +179,7 @@ sitemap: false
 </div>
 
   <div class="col-sm-3">
-    <img class="card-img" src="{{post.thumbnail | relative_url}}" style="object-fit: cover; height: 90%" alt="image">
+    <img class="card-img" src="{{ post.thumbnail | relative_url }}" style="object-fit: cover; height: 90%" alt="image">
   </div>
 </div>
 {% endif %}
