@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Review - ModernBert
+title: Review of ModernBert
 date: 2025-01-04 00:00:00
 description:
-tags: introduction
-categories: machinelearning
+tags: introduction, review, encoder 
+categories: machinelearning, nlp
 related_posts: false
 sitemap: true
 ---
 
 {::nomarkdown}
-{% assign jupyter_path = "assets/jupyter/blog.ipynb" | relative_url %}
-{% capture notebook_exists %}{% file_exists assets/jupyter/blog.ipynb %}{% endcapture %}
+{% assign jupyter_path = "assets/jupyter/nlp/modernbert.ipynb" | relative_url %}
+{% capture notebook_exists %}{% file_exists assets/jupyter/nlp/modernbert.ipynb %}{% endcapture %}
 {% if notebook_exists == "true" %}
     {% jupyter_notebook jupyter_path %}
 {% else %}

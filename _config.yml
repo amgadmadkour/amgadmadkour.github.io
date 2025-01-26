@@ -234,6 +234,13 @@ defaults:
 sass:
   style: compressed
 
+
+# -----------------------------------------------------------------------------
+# Jekyll Jupyter Notebook
+# -----------------------------------------------------------------------------
+jupyter_notebook:
+  prompt: false
+
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
 # -----------------------------------------------------------------------------
@@ -265,8 +272,8 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["introduction"] # these tags will be displayed on the front page of your blog
-display_categories: ["machinelearning"] # these categories will be displayed on the front page of your blog
+display_tags: ["introduction", "review", "encoder"] # these tags will be displayed on the front page of your blog
+display_categories: ["machinelearning", "nlp"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
