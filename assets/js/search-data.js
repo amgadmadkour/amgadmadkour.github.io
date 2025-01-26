@@ -44,9 +44,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-review-modernbert",
+        },{id: "post-review-of-modernbert",
       
-        title: "Review - ModernBert",
+        title: "Review of ModernBert",
       
       description: "",
       section: "Posts",
