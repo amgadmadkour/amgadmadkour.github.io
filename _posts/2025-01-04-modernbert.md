@@ -3,8 +3,8 @@ layout: post
 title: Review of ModernBert
 date: 2025-01-04 00:00:00
 description:
-tags: introduction, review, encoder 
-categories: machinelearning, nlp
+tags: introduction review encoder 
+categories: nlp
 related_posts: false
 sitemap: true
 ---
