@@ -111,6 +111,7 @@ embedding_2 = feature_extractor(sentence_2)[0][0]
 similarity = cosine_similarity([embedding_1], [embedding_2])
 print(f"Similarity between sentences: {similarity[0][0]:.4f}")
 ```
+
 ### Output
 
 ```bash
