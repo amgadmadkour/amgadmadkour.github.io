@@ -33,7 +33,7 @@ flowchart LR
     B --> C["Contextual<br/>Analysis"]
     C --> D["Multiple<br/>Predictions"]
     D --> E["Ranked Results:<br/>Paris (92.33%)<br/>Lyon (3.59%)<br/>Nancy (2.31%)"]
-    
+
     style A fill:#e1f5fe
     style B fill:#fff3e0
     style C fill:#f3e5f5
@@ -135,7 +135,7 @@ flowchart LR
     D --> F["Cosine<br/>Similarity"]
     E --> F
     F --> G["Similarity Score:<br/>0.9572<br/>(95.72% similar)"]
-    
+
     style A fill:#e1f5fe
     style B fill:#e1f5fe
     style C fill:#fff3e0
