@@ -44,33 +44,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-notes",
-          title: "Notes",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/notes/notes.html";
-          },
         },{id: "post-review-of-modernbert",
       
         title: "Review of ModernBert",
       
-      description: "",
+      description: "A comprehensive review of ModernBERT&#39;s capabilities in natural language understanding tasks",
       section: "Posts",
       handler: () => {
         
           window.location.href = "/blog/2025/modernbert/";
-        
-      },
-    },{id: "post-introduction-to-machine-learning",
-      
-        title: "Introduction to Machine Learning",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/ml-intro/";
         
       },
     },{id: "news-joined-microsoft-research-as-a-research-intern-for-summer-2015",
