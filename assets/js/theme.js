@@ -31,9 +31,10 @@ let applyTheme = () => {
   setSearchTheme(theme);
 
   // if mermaid is not defined, do nothing
-  if (typeof mermaid !== "undefined") {
-    setMermaidTheme(theme);
-  }
+  // Mermaid theme handling is now done by mermaid-setup.js
+  // if (typeof mermaid !== "undefined") {
+  //   setMermaidTheme(theme);
+  // }
 
   // if diff2html is not defined, do nothing
   if (typeof Diff2HtmlUI !== "undefined") {
@@ -128,16 +129,55 @@ let setMermaidTheme = (theme) => {
     theme = "default";
   }
 
-  /* Re-render the SVG, based on https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/_includes/mermaid.html */
-  document.querySelectorAll(".mermaid").forEach((elem) => {
-    // Get the code block content from previous element, since it is the mermaid code itself as defined in Markdown, but it is hidden
-    let svgCode = elem.previousSibling.childNodes[0].innerHTML;
-    elem.removeAttribute("data-processed");
-    elem.innerHTML = svgCode;
-  });
+  // Check if mermaid diagrams have been processed by our setup
+  const processedMermaidElements = document.querySelectorAll(".mermaid");
+  if (processedMermaidElements.length > 0) {
+    // Re-render existing mermaid diagrams with new theme
+    processedMermaidElements.forEach((elem) => {
+      // Get the code block content from previous element, since it is the mermaid code itself as defined in Markdown, but it is hidden
+      let svgCode = elem.previousSibling.childNodes[0].innerHTML;
+      elem.removeAttribute("data-processed");
+      elem.innerHTML = svgCode;
+    });
 
-  mermaid.initialize({ theme: theme });
-  window.mermaid.init(undefined, document.querySelectorAll(".mermaid"));
+    // Re-initialize with new theme
+    try {
+      mermaid.initialize({
+        theme: theme,
+        startOnLoad: false,
+        securityLevel: 'loose',
+        flowchart: {
+          useMaxWidth: true,
+          htmlLabels: true
+        }
+      });
+
+      // Use Promise-based approach for better control
+      Promise.resolve().then(() => {
+        mermaid.init(undefined, processedMermaidElements);
+      }).then(() => {
+        // Setup zoom functionality after rendering
+        if (typeof d3 !== "undefined") {
+          setTimeout(function () {
+            var svgs = d3.selectAll(".mermaid svg");
+            svgs.each(function () {
+              var svg = d3.select(this);
+              svg.html("<g>" + svg.html() + "</g>");
+              var inner = svg.select("g");
+              var zoom = d3.zoom().on("zoom", function (event) {
+                inner.attr("transform", event.transform);
+              });
+              svg.call(zoom);
+            });
+          }, 100);
+        }
+      }).catch((error) => {
+        console.error('Error re-rendering mermaid diagrams:', error);
+      });
+    } catch (error) {
+      console.error('Error reinitializing mermaid:', error);
+    }
+  }
 
   const observable = document.querySelector(".mermaid svg");
   if (observable !== null) {
