@@ -1,6 +1,6 @@
 // Ensure proper initialization order to prevent race conditions
 (function () {
-  'use strict';
+  "use strict";
 
   let initializationAttempts = 0;
   const maxAttempts = 50; // 5 seconds maximum wait
@@ -9,19 +9,21 @@
   let isInitialized = false;
 
   function getCurrentTheme() {
-    let theme = 'default';
-    if (typeof window.determineComputedTheme !== 'undefined') {
+    let theme = "default";
+    if (typeof window.determineComputedTheme !== "undefined") {
       theme = determineComputedTheme();
       // Convert 'light' to 'default' for mermaid
-      if (theme === 'light') theme = 'default';
+      if (theme === "light") theme = "default";
     } else {
       // Fallback theme detection
-      if (document.documentElement.classList.contains('dark') ||
-        document.body.classList.contains('dark-mode') ||
-        (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
-        theme = 'dark';
+      if (
+        document.documentElement.classList.contains("dark") ||
+        document.body.classList.contains("dark-mode") ||
+        (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches)
+      ) {
+        theme = "dark";
       } else {
-        theme = 'default';
+        theme = "default";
       }
     }
     return theme;
@@ -52,11 +54,11 @@
       mermaid.initialize({
         theme: theme,
         startOnLoad: false,
-        securityLevel: 'loose',
+        securityLevel: "loose",
         flowchart: {
           useMaxWidth: true,
-          htmlLabels: true
-        }
+          htmlLabels: true,
+        },
       });
 
       // Clear existing content and restore original code
@@ -66,27 +68,30 @@
       });
 
       // Render with promise-based approach
-      Promise.resolve().then(() => {
-        mermaid.init(undefined, mermaidElements);
-      }).then(() => {
-        setupZoom();
-      }).catch((error) => {
-        console.error('Error rendering mermaid diagrams:', error);
-      });
+      Promise.resolve()
+        .then(() => {
+          mermaid.init(undefined, mermaidElements);
+        })
+        .then(() => {
+          setupZoom();
+        })
+        .catch((error) => {
+          console.error("Error rendering mermaid diagrams:", error);
+        });
     } catch (error) {
-      console.error('Error initializing mermaid:', error);
+      console.error("Error initializing mermaid:", error);
     }
   }
 
   function initMermaid() {
     // Check if required dependencies are available
-    if (typeof window.mermaid === 'undefined') {
+    if (typeof window.mermaid === "undefined") {
       if (initializationAttempts < maxAttempts) {
         initializationAttempts++;
         setTimeout(initMermaid, 100);
         return;
       } else {
-        console.error('Mermaid library failed to load after maximum attempts');
+        console.error("Mermaid library failed to load after maximum attempts");
         return;
       }
     }
@@ -117,8 +122,7 @@
     const observer = new MutationObserver((mutations) => {
       let themeChanged = false;
       mutations.forEach((mutation) => {
-        if (mutation.type === 'attributes' &&
-          (mutation.attributeName === 'class' || mutation.attributeName === 'data-theme')) {
+        if (mutation.type === "attributes" && (mutation.attributeName === "class" || mutation.attributeName === "data-theme")) {
           themeChanged = true;
         }
       });
@@ -132,18 +136,18 @@
     // Watch for theme changes on document elements
     observer.observe(document.documentElement, {
       attributes: true,
-      attributeFilter: ['class', 'data-theme']
+      attributeFilter: ["class", "data-theme"],
     });
 
     observer.observe(document.body, {
       attributes: true,
-      attributeFilter: ['class', 'data-theme']
+      attributeFilter: ["class", "data-theme"],
     });
   }
 
   // Start initialization when DOM is ready
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', initMermaid);
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", initMermaid);
   } else {
     initMermaid();
   }

@@ -145,37 +145,40 @@ let setMermaidTheme = (theme) => {
       mermaid.initialize({
         theme: theme,
         startOnLoad: false,
-        securityLevel: 'loose',
+        securityLevel: "loose",
         flowchart: {
           useMaxWidth: true,
-          htmlLabels: true
-        }
+          htmlLabels: true,
+        },
       });
 
       // Use Promise-based approach for better control
-      Promise.resolve().then(() => {
-        mermaid.init(undefined, processedMermaidElements);
-      }).then(() => {
-        // Setup zoom functionality after rendering
-        if (typeof d3 !== "undefined") {
-          setTimeout(function () {
-            var svgs = d3.selectAll(".mermaid svg");
-            svgs.each(function () {
-              var svg = d3.select(this);
-              svg.html("<g>" + svg.html() + "</g>");
-              var inner = svg.select("g");
-              var zoom = d3.zoom().on("zoom", function (event) {
-                inner.attr("transform", event.transform);
+      Promise.resolve()
+        .then(() => {
+          mermaid.init(undefined, processedMermaidElements);
+        })
+        .then(() => {
+          // Setup zoom functionality after rendering
+          if (typeof d3 !== "undefined") {
+            setTimeout(function () {
+              var svgs = d3.selectAll(".mermaid svg");
+              svgs.each(function () {
+                var svg = d3.select(this);
+                svg.html("<g>" + svg.html() + "</g>");
+                var inner = svg.select("g");
+                var zoom = d3.zoom().on("zoom", function (event) {
+                  inner.attr("transform", event.transform);
+                });
+                svg.call(zoom);
               });
-              svg.call(zoom);
-            });
-          }, 100);
-        }
-      }).catch((error) => {
-        console.error('Error re-rendering mermaid diagrams:', error);
-      });
+            }, 100);
+          }
+        })
+        .catch((error) => {
+          console.error("Error re-rendering mermaid diagrams:", error);
+        });
     } catch (error) {
-      console.error('Error reinitializing mermaid:', error);
+      console.error("Error reinitializing mermaid:", error);
     }
   }
 
