@@ -44,9 +44,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-review-of-modernbert",
+        },{id: "post-review-of-modernbert-by-example",
       
-        title: "Review of ModernBert",
+        title: "Review of ModernBert by Example",
       
       description: "A comprehensive review of ModernBERT&#39;s capabilities in natural language understanding tasks",
       section: "Posts",
