@@ -1,8 +1,8 @@
 ---
 layout: post
-title: ModernBERT in Action: A Hands-On Guide to Zero-Shot NLP Tasks
+title: "ModernBERT in Action: A Hands-On Guide to Zero-Shot NLP Tasks"
 date: 2025-01-04 00:00:00
-description: Emphasizes the practical, hands-on nature and zero-shot capabilities
+description: "Explore ModernBERT's zero-shot capabilities through hands-on examples of masked language modeling, feature extraction, sentence similarity, and next-word prediction."
 tags: introduction review encoder
 categories: nlp
 related_posts: false

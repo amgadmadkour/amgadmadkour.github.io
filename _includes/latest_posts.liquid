@@ -22,41 +22,68 @@
                   {% assign thumbnail_path = item.thumbnail %}
                   {% if item.redirect == blank %}
                     <a href="{{ item.url | relative_url }}">
-                      <img src="{{ thumbnail_path | relative_url }}" alt="{{ item.title }}" class="img-fluid rounded" style="width: 100%; height: 80px; object-fit: cover;">
+                      <img
+                        src="{{ thumbnail_path | relative_url }}"
+                        alt="{{ item.title }}"
+                        class="img-fluid rounded"
+                        style="width: 100%; height: 80px; object-fit: cover;"
+                      >
                     </a>
                   {% elsif item.redirect contains '://' %}
                     <a href="{{ item.redirect }}" target="_blank">
-                      <img src="{{ thumbnail_path | relative_url }}" alt="{{ item.title }}" class="img-fluid rounded" style="width: 100%; height: 80px; object-fit: cover;">
+                      <img
+                        src="{{ thumbnail_path | relative_url }}"
+                        alt="{{ item.title }}"
+                        class="img-fluid rounded"
+                        style="width: 100%; height: 80px; object-fit: cover;"
+                      >
                     </a>
                   {% else %}
                     <a href="{{ item.redirect | relative_url }}">
-                      <img src="{{ thumbnail_path | relative_url }}" alt="{{ item.title }}" class="img-fluid rounded" style="width: 100%; height: 80px; object-fit: cover;">
+                      <img
+                        src="{{ thumbnail_path | relative_url }}"
+                        alt="{{ item.title }}"
+                        class="img-fluid rounded"
+                        style="width: 100%; height: 80px; object-fit: cover;"
+                      >
                     </a>
                   {% endif %}
                 </div>
               </div>
               <div class="col-9 col-md-10">
+                <div class="post-content">
+                  <h3 class="post-title mb-1">
+                    {% if item.redirect == blank %}
+                      <a href="{{ item.url | relative_url }}" class="text-decoration-none">{{ item.title }}</a>
+                    {% elsif item.redirect contains '://' %}
+                      <a href="{{ item.redirect }}" target="_blank" class="text-decoration-none">{{ item.title }}</a>
+                    {% else %}
+                      <a href="{{ item.redirect | relative_url }}" class="text-decoration-none">{{ item.title }}</a>
+                    {% endif %}
+                  </h3>
+
+                  <p class="post-date text-muted mb-0">{{ item.date | date: '%b %d, %Y' }}</p>
+                </div>
+              </div>
             {% else %}
               <div class="col-12">
+                <div class="post-content">
+                  <h3 class="post-title mb-1">
+                    {% if item.redirect == blank %}
+                      <a href="{{ item.url | relative_url }}" class="text-decoration-none">{{ item.title }}</a>
+                    {% elsif item.redirect contains '://' %}
+                      <a href="{{ item.redirect }}" target="_blank" class="text-decoration-none">{{ item.title }}</a>
+                    {% else %}
+                      <a href="{{ item.redirect | relative_url }}" class="text-decoration-none">{{ item.title }}</a>
+                    {% endif %}
+                  </h3>
+
+                  <p class="post-date text-muted mb-0">{{ item.date | date: '%b %d, %Y' }}</p>
+                </div>
+              </div>
             {% endif %}
-            
-            <div class="post-content">
-              <h3 class="post-title mb-1">
-                {% if item.redirect == blank %}
-                  <a href="{{ item.url | relative_url }}" class="text-decoration-none">{{ item.title }}</a>
-                {% elsif item.redirect contains '://' %}
-                  <a href="{{ item.redirect }}" target="_blank" class="text-decoration-none">{{ item.title }}</a>
-                {% else %}
-                  <a href="{{ item.redirect | relative_url }}" class="text-decoration-none">{{ item.title }}</a>
-                {% endif %}
-              </h3>
-              
-              <p class="post-date text-muted mb-0">{{ item.date | date: '%b %d, %Y' }}</p>
-            </div>
-          </div>
           </div>
         </div>
-        
         {% unless forloop.last %}
           <hr class="my-4">
         {% endunless %}
