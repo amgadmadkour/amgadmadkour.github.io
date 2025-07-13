@@ -15,7 +15,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I'm a technical lead and manager with experience in leading end-to-end data-centric features. My experience spans academic research and industry. I obtained my Ph.D. in computer science from Purdue University. I currently lead agentic shopping and product tracking in Microsoft AI. Before joining Microsoft, I was an R&D engineer at IBM, working in the areas of machine learning, natural language processing, and machine translation. My current work focuses on building scalable data products that deliver value to users.
+I'm a technical engineering and science leader with extensive experience driving end-to-end data-centric projects. Currently, I lead agentic shopping and product tracking initiatives at Microsoft AI. I hold a Ph.D. in Computer Science from Purdue University, where I specialized in Knowledge Graph Data Management. Prior to Microsoft, I served as a Research Engineer at IBM, focusing on machine learning, natural language processing, and machine translation.
+
+My work bridges the gap between cutting-edge AI research and practical applications, with a particular emphasis on leveraging AI to enhance data understanding and integration. I'm passionate about developing scalable solutions that transform how we interact with and derive insights from complex data systems.
 
 ### Research Interests
 
