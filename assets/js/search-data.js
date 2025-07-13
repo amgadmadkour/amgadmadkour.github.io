@@ -44,15 +44,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-",
+        },{id: "post-modernbert-in-action-a-hands-on-guide-to-zero-shot-nlp-tasks",
       
-        title: "",
+        title: "ModernBERT in Action: A Hands-On Guide to Zero-Shot NLP Tasks",
       
-      description: "",
+      description: "Explore ModernBERT&#39;s zero-shot capabilities through hands-on examples of masked language modeling, feature extraction, sentence similarity, and next-word prediction.",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/2025-01-04-modernbert/";
+          window.location.href = "/blog/2025/modernbert/";
         
       },
     },{id: "news-joined-microsoft-research-as-a-research-intern-for-summer-2015",
