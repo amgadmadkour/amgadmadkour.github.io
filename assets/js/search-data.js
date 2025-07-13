@@ -44,15 +44,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-review-of-modernbert-by-example",
+        },{id: "post-",
       
-        title: "Review of ModernBert by Example",
+        title: "",
       
-      description: "A comprehensive review of ModernBERT&#39;s capabilities in natural language understanding tasks",
+      description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/modernbert/";
+          window.location.href = "/blog/2025/2025-01-04-modernbert/";
         
       },
     },{id: "news-joined-microsoft-research-as-a-research-intern-for-summer-2015",
