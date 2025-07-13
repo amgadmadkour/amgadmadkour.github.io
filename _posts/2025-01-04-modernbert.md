@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review of ModernBert
+title: Review of ModernBert by Example
 date: 2025-01-04 00:00:00
 description: A comprehensive review of ModernBERT's capabilities in natural language understanding tasks
 tags: introduction review encoder
@@ -13,7 +13,7 @@ mermaid:
   zoomable: false
 ---
 
-ModernBERT is a robust and versatile language model designed for natural language understanding tasks. It leverages the power of transformer architecture to provide state-of-the-art performance in various NLP applications. In this notebook, we will demonstrate several tasks that can be performed using the ModernBERT model, including masked language modeling, feature extraction, sentence similarity, and next-word prediction. These tasks will showcase the capabilities of ModernBERT without requiring any fine-tuning, highlighting its effectiveness in handling diverse language processing challenges right out of the box.
+ModernBERT is a robust and versatile language model designed for natural language understanding tasks. It leverages the power of transformer architecture to provide state-of-the-art performance in various NLP applications. In this post, we will illustrate several tasks that can be performed using the ModernBERT model, including masked language modeling, feature extraction, sentence similarity, and next-word prediction. These tasks will showcase the capabilities of ModernBERT without requiring any fine-tuning, highlighting its effectiveness in handling diverse language processing challenges right out of the box.
 
 ## Install Dependencies
 
