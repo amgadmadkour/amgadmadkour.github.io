@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Review of ModernBert by Example
+title: ModernBERT in Action: A Hands-On Guide to Zero-Shot NLP Tasks
 date: 2025-01-04 00:00:00
-description: A comprehensive review of ModernBERT's capabilities in natural language understanding tasks
+description: Emphasizes the practical, hands-on nature and zero-shot capabilities
 tags: introduction review encoder
 categories: nlp
 related_posts: false
