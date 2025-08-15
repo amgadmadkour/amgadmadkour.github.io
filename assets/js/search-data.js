@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-modernbert-in-action-a-hands-on-guide-to-zero-shot-nlp-tasks",
+        },{id: "post-designing-multi-agent-ai-systems-with-semantic-kernel",
+      
+        title: "Designing Multi‑Agent AI Systems with Semantic Kernel",
+      
+      description: "Hands-on guide to evolving from single agents to plugin-powered, sequential, and interactive multi‑agent systems with Semantic Kernel.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/semantickernel/";
+        
+      },
+    },{id: "post-modernbert-in-action-a-hands-on-guide-to-zero-shot-nlp-tasks",
       
         title: "ModernBERT in Action: A Hands-On Guide to Zero-Shot NLP Tasks",
       
