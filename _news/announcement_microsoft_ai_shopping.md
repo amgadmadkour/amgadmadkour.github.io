@@ -7,4 +7,4 @@ title: Microsoft Shopping
 sitemap: false
 ---
 
-Selected for an Applied Science Manager role at Microsoft AI, leading the shopping product tracking team.
+Selected as an engineering lead for agentic savings at Microsoft AI Copilot Shopping.
