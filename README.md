@@ -3,7 +3,7 @@
 ## Build
 
 ```bash
-docker compose up
+docker compose up --build
 ```
 
 ## Check Linting Issues
