@@ -44,13 +44,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-notes",
-          title: "Notes",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/notes/notes.html";
-          },
         },{id: "post-designing-multi-agent-ai-systems-with-semantic-kernel",
       
         title: "Designing Multi‑Agent AI Systems with Semantic Kernel",
