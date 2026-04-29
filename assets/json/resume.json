@@ -17,11 +17,10 @@
       "location": "Redmond, USA",
       "startDate": "2022-03-01",
       "highlights": [
+        "Leading engineering architecture and execution for Microsoft Copilot Commerce Savings, owning the platforms for product tracking (including price alerts) and coupons while delivering features including cashback to millions of users across Web, Mobile, and Edge.",
         "Built a team from scratch, owning full hiring, role definition, leveling, promotions, and performance management across engineers and applied scientists.",
-        "Leading engineering architecture and execution for Microsoft Copilot Commerce, delivering savings features including product tracking, coupons, cashback, and price alerts to millions of users across Web, Mobile, and Edge.",
-        "Redesigned and scaled the savings platform architecture to support multiple savings scenarios for millions of users with high performance and reliability.",
-        "Doubled product tracking growth within six months; introduced reliability standards and quality gates that improved platform stability across the team.",
-        "Drove growth for the Microsoft Autos Marketplace by spearheading multiple initiatives including Autos Entities, Autos Copilot, and My Garage contributing to 3× DAU growth and 100% YoY revenue growth."
+        "Doubled product tracking growth within six months; introduced reliability standards and quality gates that improved platform stability.",
+        "Drove growth for the Microsoft Autos Marketplace by spearheading multiple initiatives including Autos Entities platform, Autos Copilot, and My Garage contributing to 3× DAU growth and 100% YoY revenue growth."
       ]
     },
     {
@@ -31,10 +30,10 @@
       "startDate": "2019-01-01",
       "endDate": "2022-03-01",
       "highlights": [
-        "Defined the autos entity framework technical architecture adopted across Bing, MSN, and Microsoft Autos Marketplace.",
         "Fine-tuned ML models for product information extraction on Microsoft Edge, improving accuracy and production reliability.",
-        "Designed a graph representation linking entities to news articles, powering downstream annotation and entity linking services.",
-        "Cut computation and storage costs for entity matching workflows by 50% through indexing and candidate generation optimizations."
+        "Cut computation and storage costs for entity matching workflows by 50% through indexing and candidate generation optimizations.",
+        "Scaled the Bing Satori entity matching platform on Apache Spark, pioneering the adoption of .NET for Spark as a computation framework within the Bing stack.",
+        "Designed a graph representation linking entities to news articles, powering downstream annotation and entity linking services."
       ]
     },
     {
@@ -46,9 +45,9 @@
       "highlights": [
         "Co-invented a patented k-partite graph technique for tag recommendation during resource bookmarking.",
         "Developed a spam detection system for social bookmarking using semantic features evaluated across multiple ML algorithms.",
-        "Built an unsupervised biomedical NLP system for extracting protein-protein interactions from scientific literature.",
-        "Contributed to a machine-assisted translation system using continuous space language models for statistical machine translation.",
-        "Collaborated with IBM Watson lab (Yorktown) on an unstructured information management platform for knowledge discovery from news."
+        "Built an unsupervised biomedical system (Bionoculars) for extracting protein-protein interactions from scientific literature.",
+        "Built a machine-assisted human translation system (MAHT) leveraging language models for statistical machine translation.",
+        "Collaborated with IBM Watson lab (Yorktown) on creating an unstructured information management platform for knowledge discovery from news."
       ]
     }
   ],
