@@ -80,23 +80,28 @@
   "publications": [
     {
       "name": "WORQ: Workload-Driven RDF Query Processing.",
-      "publisher": "International Semantic Web Conference (ISWC), 2018"
+      "publisher": "International Semantic Web Conference (ISWC), 2018",
+      "url": "/assets/pdf/papers/worq.pdf"
     },
     {
       "name": "SPARTI: Scalable RDF Data Management Using Query-Centric Semantic Partitioning.",
-      "publisher": "SIGMOD Workshop on Semantic Big Data (SBD@SIGMOD), 2018"
+      "publisher": "SIGMOD Workshop on Semantic Big Data (SBD@SIGMOD), 2018",
+      "url": "/assets/pdf/papers/sparti.pdf"
     },
     {
       "name": "Tornado: A Distributed Spatio-Textual Stream Processing System.",
-      "publisher": "Proceedings of the VLDB Endowment (PVLDB), 2015"
+      "publisher": "Proceedings of the VLDB Endowment (PVLDB), 2015",
+      "url": "/assets/pdf/papers/tornadodemo.pdf"
     },
     {
       "name": "Language Independent Transliteration Mining System Using Finite State Automata Framework.",
-      "publisher": "Named Entities Workshop (NEWS@ACL), 2010"
+      "publisher": "Named Entities Workshop (NEWS@ACL), 2010",
+      "url": "/assets/pdf/papers/transliteration.pdf"
     },
     {
       "name": "BioNoculars: Extracting Protein-Protein Interactions from Biomedical Text.",
-      "publisher": "BioNLP Workshop (BioNLP@ACL), 2007"
+      "publisher": "BioNLP Workshop (BioNLP@ACL), 2007",
+      "url": "/assets/pdf/papers/bionlp-acl07.pdf"
     }
   ],
   "skills": [
