@@ -44,15 +44,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-designing-multi-agent-ai-systems-with-semantic-kernel",
+        },{id: "post-designing-multi-agent-ai-systems-with-microsoft-agent-framework",
       
-        title: "Designing Multi‑Agent AI Systems with Semantic Kernel",
+        title: "Designing Multi‑Agent AI Systems with Microsoft Agent Framework",
       
-      description: "Hands-on guide to evolving from single agents to plugin-powered, sequential, and interactive multi‑agent systems with Semantic Kernel.",
+      description: "Hands-on guide to evolving from single agents to tool-powered, sequential, and interactive multi‑agent systems with Microsoft Agent Framework.",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/semantickernel/";
+          window.location.href = "/blog/2026/agent-framework/";
         
       },
     },{id: "post-modernbert-in-action-a-hands-on-guide-to-zero-shot-nlp-tasks",
