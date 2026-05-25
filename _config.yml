@@ -232,6 +232,10 @@ defaults:
 
 sass:
   style: compressed
+  quiet_deps: true
+  silence_deprecations:
+    - import
+    - global-builtin
 
 # -----------------------------------------------------------------------------
 # Jekyll Jupyter Notebook
