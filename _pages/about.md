@@ -15,9 +15,7 @@ selected_papers: false
 social: false
 ---
 
-I'm an engineering leader specializing in AI-powered consumer platforms and large-scale systems. I hold a Ph.D. in Computer Science from Purdue University, where I specialized in Knowledge Graph Data Management. Currently, I serve as a Principal Engineering Manager at Microsoft, leading engineering architecture and execution for consumer AI products serving millions of users.
-
-With deep expertise in LLMs, knowledge graphs, and data platforms, I have a proven track record of building and scaling high-performing engineering and applied science teams. I'm passionate about driving measurable growth, reliability, and efficiency improvements across large-scale systems, bridging the gap between cutting-edge AI research and practical, consumer-facing applications.
+Engineering leader with deep expertise in AI-powered consumer experiences and enterprise-scale platforms. Specialized in agentic AI systems, LLM-powered applications, knowledge graphs, and data platforms, with a strong track record of delivering 0→1 products and scaling high-performing engineering and applied science teams. Proven ability to drive measurable growth, reliability, and operational efficiency across products and platforms serving millions of users and large-scale business ecosystems.
 
 ### Areas of Expertise
 
