@@ -6,7 +6,9 @@ title: Amgad Madkour # the website title (if blank, full name will be used inste
 first_name: Amgad
 middle_name:
 last_name: Madkour
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+description: >- # the ">-" symbol means to ignore newlines until "footer_text:"
+  Amgad Madkour is an engineering leader specializing in agentic AI systems, LLM-powered applications,
+  knowledge graphs, and large-scale data platforms.
 footer_text:
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
