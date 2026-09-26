@@ -227,11 +227,6 @@ third_party_libraries:
       js: "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
     url:
       js: "https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"
-  mdb: # CSS is compiled into main.css from _sass/vendor/mdb.min.css
-    integrity:
-      js: "sha256-NdbiivsvWt7VYCt6hYNT3h/th9vSTL4EDWeGs5SN3DA="
-    url:
-      js: "https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/js/mdb.min.js"
   mermaid:
     integrity:
       js: "sha256-TtLOdUA8mstPoO6sGvHIGx2ceXrrX4KgIItO06XOn8A="
