@@ -34,7 +34,10 @@ for (const file of walk(site)) {
       .trim();
   }
 
-  fs.writeFileSync(file, html.replace(match[0], () => `<style>${css}</style>`));
+  fs.writeFileSync(
+    file,
+    html.replace(match[0], () => `<style>${css}</style>`)
+  );
   count++;
 }
 
