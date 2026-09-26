@@ -57,8 +57,8 @@ jobs:
           bundle exec jekyll build
       - name: Purge unused CSS 🧹
         run: |
-          npm install -g purgecss
-          purgecss -c purgecss.config.js
+          npm ci
+          npx purgecss -c purgecss.config.js
       - name: Inline CSS 🎨
         run: node bin/inline-css.js _site
       - name: Deploy 🚀
