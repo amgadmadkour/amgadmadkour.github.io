@@ -6,6 +6,19 @@
 // Dimensions
 $max-content-width: {{ site.max_width }};
 
+// Vendor styles, compiled into main.css so the page has a single render-blocking stylesheet
+@import
+  "vendor/bootstrap.min",
+  "vendor/mdb.min",
+  "vendor/academicons.min",
+  "vendor/bootstrap-toc.min";
+
+// Code highlighting themes, switched by the data-theme attribute set in _includes/theme.js.
+// :where() keeps their specificity the same as the original standalone stylesheets.
+:where(html:not([data-theme="dark"])) {
+  @import "pygments/github";
+}
+
 @import
   "variables",
   "themes",
@@ -17,3 +30,7 @@ $max-content-width: {{ site.max_width }};
   "font-awesome/solid",
   "tabler-icons/tabler-icons.scss"
 ;
+
+:where(html[data-theme="dark"]) {
+  @import "pygments/native";
+}

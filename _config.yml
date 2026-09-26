@@ -219,18 +219,16 @@ lazy_loading_images: true # enables lazy loading of images (recommended)
 third_party_libraries:
   google_fonts:
     url:
-      fonts: "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons&display=swap"
+      fonts: "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
   jquery:
     integrity:
       js: "sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
     url:
       js: "https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js"
-  mdb:
+  mdb: # CSS is compiled into main.css from _sass/vendor/mdb.min.css
     integrity:
-      css: "sha256-jpjYvU3G3N6nrrBwXJoVEYI/0zw8htfFnhT9ljN3JJw="
       js: "sha256-NdbiivsvWt7VYCt6hYNT3h/th9vSTL4EDWeGs5SN3DA="
     url:
-      css: "https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/css/mdb.min.css"
       js: "https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/js/mdb.min.js"
   mermaid:
     integrity:
