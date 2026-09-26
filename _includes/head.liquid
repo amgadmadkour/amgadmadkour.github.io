@@ -24,6 +24,28 @@
   which the deploy workflow inlines into each page after purging (bin/inline-css.js)
 -->
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url | bust_css_cache }}">
+{% if page.layout == 'about' and page.profile.image and site.imagemagick.enabled %}
+  {% assign profile_ext = page.profile.image | split: '.' | last %}
+  {% if profile_ext == 'gif' or profile_ext == 'jpeg' or profile_ext == 'jpg' or profile_ext == 'png' or profile_ext == 'tiff' %}
+    <!-- Preload the profile photo (the LCP element on the about page) so it starts downloading before the body is parsed -->
+    {% assign profile_img_path = page.profile.image
+      | prepend: 'assets/img/'
+      | remove: '.jpg'
+      | remove: '.jpeg'
+      | remove: '.png'
+      | remove: '.tiff'
+      | remove: '.gif'
+    %}
+    <link
+      rel="preload"
+      as="image"
+      type="image/webp"
+      imagesrcset="{% for i in site.imagemagick.widths %}{{ profile_img_path | relative_url }}-{{ i }}.webp {{ i }}w,{% endfor %}"
+      imagesizes="(min-width: {{ site.max_width }}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"
+      fetchpriority="high"
+    >
+  {% endif %}
+{% endif %}
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
 
 <!-- Dark Mode -->
