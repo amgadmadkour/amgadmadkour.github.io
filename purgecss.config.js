@@ -3,4 +3,5 @@ module.exports = {
   css: ["_site/assets/css/*.css"],
   output: "_site/assets/css/",
   skippedContentGlobs: ["_site/assets/**/*.html"],
+  keyframes: true, // drop unused @keyframes (MDB bundles all of animate.css)
 };
