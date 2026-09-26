@@ -6,6 +6,10 @@
 // Dimensions
 $max-content-width: {{ site.max_width }};
 
+// Show icon fonts' fallback while they load instead of blocking text rendering
+$fa-font-display: swap;
+$ti-font-display: swap;
+
 // Vendor styles, compiled into main.css so the page has a single render-blocking stylesheet
 @import
   "vendor/bootstrap.min",
