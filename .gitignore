@@ -12,3 +12,11 @@ node_modules/
 /vendor
 .idea
 .vscode/settings.json
+
+# LaTeX build artifacts (resume)
+assets/resume/*.aux
+assets/resume/*.fdb_latexmk
+assets/resume/*.fls
+assets/resume/*.log
+assets/resume/*.out
+assets/resume/*.synctex.gz
