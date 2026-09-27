@@ -113,7 +113,6 @@ plugins:
   - jekyll-archives
   - jekyll-email-protect
   - jekyll-feed
-  - jekyll-get-json
   - jekyll-imagemagick
   - jekyll-link-attributes
   - jekyll-minifier
@@ -236,17 +235,3 @@ third_party_libraries:
       js: "sha256-TtLOdUA8mstPoO6sGvHIGx2ceXrrX4KgIItO06XOn8A="
     url:
       js: "https://cdn.jsdelivr.net/npm/mermaid@10.7.0/dist/mermaid.min.js"
-
-# -----------------------------------------------------------------------------
-# CV data (rendered by _layouts/cv.liquid)
-# -----------------------------------------------------------------------------
-
-jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json
-jsonresume:
-  - basics
-  - work
-  - education
-  - publications
-  - skills
